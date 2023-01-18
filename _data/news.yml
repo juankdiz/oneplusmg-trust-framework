@@ -1,0 +1,9 @@
+- name: New Item One
+  date: 2022-10-28
+  linked_pr: #
+  description:  Justo donec enim diam vulputate. Ligula ullamcorper malesuada proin libero nunc consequat interdum. 
+- name: News Item two
+  date: 2022-10-17
+  linked_pr: #
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+

@@ -1,0 +1,34 @@
+title: Trust Famework
+title_url: /index
+subitems:
+  - title: Data Governance(ELSI)
+    url: /data-governance/
+    image_url: /assets/img/section-icons/data-governance.svg
+    subitems:
+      - title: Sub Menu 1
+        url: /data-governance/sub-menu-1
+      - title: Sub Menu 2
+        url: /data-governance/sub-menu-2
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Justo donec enim diam vulputate.
+
+  - title: Standards
+    image_url: /assets/img/section-icons/standard.svg
+    url: /standards/
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+  - title: Maturity Level 
+    image_url: /assets/img/section-icons/maturity.svg
+    url: /maturity-level/
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+  - title: Quality
+    image_url: /assets/img/section-icons/quality.svg
+    url: /quality/
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  
+  - title: Infrastructure
+    image_url: /assets/img/section-icons/infrastructure.svg
+    url: /infrastructures/
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+

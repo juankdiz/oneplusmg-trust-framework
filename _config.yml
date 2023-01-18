@@ -9,9 +9,23 @@ description: "Example of ELIXIR toolkit theme as a remote jekyll theme"
 
 remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@1.21.0
 
+sass:
+  style: compressed
+  sourcemap: never
+
+gtag: 
+# Google analytics tag
+
+theme_variables:
+  theme_color: da366e
+  topnav:
+    brand_logo: assets/img/main_logo.svg
+  fonts:
+    - https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap
+
 exclude:
   - README.md
-  - vendor
+  - .gitignore
 
 defaults:
   -
@@ -21,10 +35,20 @@ defaults:
     values:
       permalink: /:basename
       layout: "page"
-      sidebar: main
+      sidebar: trust_framework
+      search_exclude: false
+  -
+    scope:
+      path: "pages/contribute"
+    values:
+      sidebar: contribute
+  -
+    scope:
+      path: "pages/about"
+    values:
+      sidebar: about
 
 plugins:
   - jemoji
   - jekyll-sitemap
   - jekyll-github-metadata
-  - webrick
