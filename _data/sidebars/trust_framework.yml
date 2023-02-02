@@ -9,26 +9,26 @@ subitems:
         url: /data-governance/sub-menu-1
       - title: Sub Menu 2
         url: /data-governance/sub-menu-2
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Justo donec enim diam vulputate.
+    description: Guidance and recommendations on how to address data governance and ELSI aspect to ensure data can be made available 
 
   - title: Standards
     image_url: /assets/img/section-icons/standard.svg
     url: /standards/
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    description: 1+MG minimal data model and recommendations on ontologies and data standards
 
   - title: Maturity Level 
     image_url: /assets/img/section-icons/maturity.svg
     url: /maturity-level/
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    description: Self-assessment maturation model to guide health care system on their journey to deploy genomic medice.
 
   - title: Quality
     image_url: /assets/img/section-icons/quality.svg
     url: /quality/
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    description: Quality requirements for WGS/WES data to be labelled as 1+MG complaint and other genomic data.
   
   - title: Infrastructure
     image_url: /assets/img/section-icons/infrastructure.svg
     url: /infrastructures/
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    description: Stack of standards, open source references implementations, synthetic data and proof of concepts that can be used to establish a 1+MG node. Final solutions deployed will depend on the requirements at the national/regional/local or international level
 
 
