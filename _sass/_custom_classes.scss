@@ -57,6 +57,37 @@ section#search-section {
     }
 }
 
-.copyright p{
-    color: $body-text-colour;
+.copyright p, #ett-logo{
+    color: $body-text-colour !important;
+}
+
+footer .cls-2{
+    opacity: 0.18 !important;
+}
+
+header .navbar .navbar-brand img{
+    width: 250px;
+    height: 40px;
+}
+
+//1+MG wheel in sidebar
+.sidebar_mgtf {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media (max-width: 992px) {
+    .sidebar_mgtf {
+        width: 200px;
+    }
+}
+
+li ul .sidebar_mgtf_sub {
+    border-color: $light;
+    padding: 0.75rem 0.5rem 0.5rem 0.5rem;
+    border-radius: 0px 0px $border-radius $border-radius;
+    border-style: none solid solid solid;
+    border-width: 0.2em;
+    margin-top: -0.25rem;
 }

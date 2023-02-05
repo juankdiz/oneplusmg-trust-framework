@@ -1,9 +1,14 @@
 title: Trust Famework
 title_url: /index
 subitems:
+  - title: Data Life Cycle
+    url: /data_life_cycle/
+    description: To facilitate the debate about how health data could be used more efficiently, we have identified six phases in the data lifecycle, from finding the right data to publishing the results of its use.
+    image_url: /assets/img/section-icons/data-lifecycle-v1.svg
+
   - title: Data Governance(ELSI)
     url: /data-governance/
-    image_url: /assets/img/section-icons/data-governance.svg
+    image_url: /assets/img/section-icons/data-governance-v1.svg
     subitems:
       - title: Sub Menu 1
         url: /data-governance/sub-menu-1
@@ -12,23 +17,23 @@ subitems:
     description: Guidance and recommendations on how to address data governance and ELSI aspect to ensure data can be made available 
 
   - title: Standards
-    image_url: /assets/img/section-icons/standard.svg
+    image_url: /assets/img/section-icons/data-standard-v1.svg
     url: /standards/
     description: 1+MG minimal data model and recommendations on ontologies and data standards
 
   - title: Maturity Level 
-    image_url: /assets/img/section-icons/maturity.svg
+    image_url: /assets/img/section-icons/maturity-level.svg
     url: /maturity-level/
     description: Self-assessment maturation model to guide health care system on their journey to deploy genomic medice.
 
   - title: Quality
-    image_url: /assets/img/section-icons/quality.svg
+    image_url: /assets/img/section-icons/data-quality-v1.svg
     url: /quality/
     description: Quality requirements for WGS/WES data to be labelled as 1+MG complaint and other genomic data.
   
   - title: Infrastructure
-    image_url: /assets/img/section-icons/infrastructure.svg
+    image_url: /assets/img/section-icons/data-infrastructure-v1.svg
     url: /infrastructures/
-    description: Stack of standards, open source references implementations, synthetic data and proof of concepts that can be used to establish a 1+MG node. Final solutions deployed will depend on the requirements at the national/regional/local or international level
+    description: Stack of standards, open source references implementations, synthetic data and proof of concepts that can be used to establish a 1+MG node.
 
 
