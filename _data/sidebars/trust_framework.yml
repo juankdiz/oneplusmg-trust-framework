@@ -7,7 +7,7 @@ subitems:
     image_url: /assets/img/section-icons/data-lifecycle-v1.svg
 
   - title: Data Governance(ELSI)
-    url: /data-governance/
+    url: /data-governance
     image_url: /assets/img/section-icons/data-governance-v1.svg
     subitems:
       - title: Sub Menu 1
@@ -18,22 +18,22 @@ subitems:
 
   - title: Standards
     image_url: /assets/img/section-icons/data-standard-v1.svg
-    url: /standards/
+    url: /standards
     description: 1+MG minimal data model and recommendations on ontologies and data standards
 
   - title: Maturity Level 
     image_url: /assets/img/section-icons/maturity-level.svg
-    url: /maturity-level/
+    url: /maturity-level
     description: Self-assessment maturation model to guide health care system on their journey to deploy genomic medice.
 
   - title: Quality
     image_url: /assets/img/section-icons/data-quality-v1.svg
-    url: /quality/
+    url: /quality
     description: Quality requirements for WGS/WES data to be labelled as 1+MG complaint and other genomic data.
   
   - title: Infrastructure
     image_url: /assets/img/section-icons/data-infrastructure-v1.svg
-    url: /infrastructures/
+    url: /infrastructures
     description: Stack of standards, open source references implementations, synthetic data and proof of concepts that can be used to establish a 1+MG node.
 
 
