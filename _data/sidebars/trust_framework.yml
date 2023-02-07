@@ -24,7 +24,7 @@ subitems:
   - title: Maturity Level 
     image_url: /assets/img/section-icons/maturity-level.svg
     url: /maturity-level
-    description: Self-assessment maturation model to guide health care system on their journey to deploy genomic medice.
+    description: Self-assessment maturation model to guide health care system on their journey to deploy genomic medicine.
 
   - title: Quality
     image_url: /assets/img/section-icons/data-quality-v1.svg
