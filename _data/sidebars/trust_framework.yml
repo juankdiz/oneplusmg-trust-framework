@@ -5,7 +5,8 @@ subitems:
     url: /data_life_cycle
     description: To facilitate the debate about how health data could be used more efficiently, we have identified six phases in the data lifecycle, from finding the right data to publishing the results of its use.
     image_url: /assets/img/section-icons/data-lifecycle-v1.svg
-
+    subitems:
+      - RDM: True
   - title: Data Governance(ELSI)
     url: /data-governance
     image_url: /assets/img/section-icons/data-governance-v1.svg
