@@ -42,6 +42,26 @@
 
 }
 
+/*-----Section navigation tiles-----*/
+
+.navigation-tiles {
+    .card:hover {
+        box-shadow: $box-shadow;
+    }
+    .card{
+        background-color: $white;
+    }
+
+    .card-header {
+        a:hover {
+            text-decoration: none;
+        }
+        h3 {
+            font-size: 1rem;
+        }
+    }
+}
+
 // Search box
 
 section#search-section {
