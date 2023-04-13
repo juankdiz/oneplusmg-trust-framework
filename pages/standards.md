@@ -1,6 +1,5 @@
 ---
 title: Standards
-page_id: standard
 description: Introduction to data standards
 ---
 
