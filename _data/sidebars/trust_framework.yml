@@ -7,6 +7,17 @@ subitems:
     image_url: /assets/img/section-icons/data-lifecycle-v1.svg
     subitems:
       - RDM: True
+
+  - title: Your role
+    image_url: /assets/img/section-icons/data-standard-v1.svg
+    url: /your-role
+    description: Identify your role in research data management, find data management resources relevant for you, and information to help you progress in your career path.
+
+  - title: Your domain
+    image_url: /assets/img/section-icons/data-standard-v1.svg
+    url: /your-domain
+    description: Learn about data management tasks that affect your domain or research community, and the solutions adopted to address them.
+
   - title: Data Governance(ELSI)
     url: /data-governance
     image_url: /assets/img/section-icons/data-governance-v1.svg
@@ -15,12 +26,12 @@ subitems:
         url: /data-governance/sub-menu-1
       - title: Sub Menu 2
         url: /data-governance/sub-menu-2
-    description: Guidance and recommendations on how to address data governance and ELSI aspect to ensure data can be made available 
+    description: Guidance and recommendations on how to address data governance and ELSI aspect to ensure data can be made available.
 
   - title: Standards
     image_url: /assets/img/section-icons/data-standard-v1.svg
     url: /standards
-    description: 1+MG minimal data model and recommendations on ontologies and data standards
+    description: 1+MG minimal data model and recommendations on ontologies and data standards.
 
   - title: Maturity Level 
     image_url: /assets/img/section-icons/maturity-level.svg
