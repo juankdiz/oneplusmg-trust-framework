@@ -9,13 +9,18 @@ subitems:
       - RDM: True
 
   - title: Your role
-    image_url: /assets/img/section-icons/data-standard-v1.svg
+    image_url: /assets/img/section-icons/address-card-light.svg
     url: /your-role
     description: Identify your role in research data management, find data management resources relevant for you, and information to help you progress in your career path.
 
   - title: Your domain
-    image_url: /assets/img/section-icons/data-standard-v1.svg
+    image_url: /assets/img/section-icons/dna-light.svg
     url: /your-domain
+    description: Learn about data management tasks that affect your domain or research community, and the solutions adopted to address them.
+  
+  - title: Your use case
+    image_url: /assets/img/section-icons/use-case.svg
+    url: /your-usecase
     description: Learn about data management tasks that affect your domain or research community, and the solutions adopted to address them.
 
   - title: Data Governance(ELSI)
