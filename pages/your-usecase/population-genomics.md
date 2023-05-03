@@ -1,5 +1,7 @@
 ---
-title: About
+title: Population Genomics - Genome of Europe
+description: Short text describing this use case
+page_id: population-genomics
 ---
 
 **We are still working on the content for this page.** If you are interested in adding to the page, then:

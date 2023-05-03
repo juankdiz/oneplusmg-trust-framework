@@ -1,5 +1,7 @@
 ---
-title: About
+title: Cancer
+description: Short text describing this use case
+page_id: cancer
 ---
 
 **We are still working on the content for this page.** If you are interested in adding to the page, then:

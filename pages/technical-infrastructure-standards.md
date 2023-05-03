@@ -1,6 +1,6 @@
 ---
-title: Standards
-description: Introduction to data standards
+title: Technical Infrastructure standards
+description: Introduction to Technical Infrastructure standards
 ---
 
 B1MG defined the architecture, shared interfaces, and possible virtualisation platforms required to achieve technical interoperability. In addition, the proposed infrastructure must support semantic interoperability, so a variety of international standards were proposed to support this.
@@ -35,4 +35,7 @@ The required Authentication and Authorisation Infrastructure (AAI) and Passport 
 
 <h3>Workflow & Task Execution Service</h3>
 The GA4GH Workflow Execution Service (WES) standard specifies how complex analytic pipelines can be specified in a standardised way to allow these pipelines to run in different locations, for example at different federated node:an important requirement in allowing users to send the analysis to the data rather than bring the data to the analysis which helps to ensure the data remains secure and conforms to the ELSI issues that apply to it. The Task Execution Service (TES) allows analysis pipelines to run on a wide range of heterogeneous infrastructure. For example, a user may wish to run the same variant calling pipeline on data hosted at three different nodes,but the compute infrastructure used by these nodes is different. While WES allows the pipeline to be specified in a standardised way, TES ensures that the task required to run the pipeline can be executed on different types of compute infrastructure, such as different high performance computing (HPC) orCloud environments. WES and TES together ensure that identical, repeatable, and consistent analysis can be run on different federated nodes irrespective of the underlying compute infrastructure.
+
+
+
 

@@ -47,10 +47,35 @@ defaults:
       sidebar: about
   -
     scope:
-      path: "pages/data_life_cycle"
+      path: "pages/data-life-cycle"
     values:
-      type: data_life_cycle
-
+      type: data-life-cycle
+  -
+    scope:
+      path: "pages/your-role/TEMPLATE_your_role.md"
+      type: "pages"
+    values:
+      sitemap: false
+      search_exclude: true
+      no_robots: true
+  -
+    scope:
+      path: "pages/your-role"
+    values:
+      type: your-role
+  -
+    scope:
+      path: "pages/your-usecase/TEMPLATE_your_usecase.md"
+      type: "pages"
+    values:
+      sitemap: false
+      search_exclude: true
+      no_robots: true
+  -
+    scope:
+      path: "pages/your-usecase"
+    values:
+      type: your-usecase
 
 plugins:
   - jemoji

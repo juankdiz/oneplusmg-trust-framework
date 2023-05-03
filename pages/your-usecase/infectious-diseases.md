@@ -1,5 +1,7 @@
 ---
-title: About
+title: Infectious diseases
+description: Short text describing this use case
+page_id: infectious-diseases
 ---
 
 **We are still working on the content for this page.** If you are interested in adding to the page, then:
