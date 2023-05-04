@@ -4,10 +4,9 @@ description: Short text describing this role
 page_id: data-access-committee-member
 ---
 
-**We are still working on the content for this page.** If you are interested in adding to the page, then:
+### Maturation of Data Access roles and tools
 
-[Feel free to contribute](/contribute/){: class="btn btn-primary btn-lg rounded-pill"}
+The [B1MG Maturity Level Model(MLM)](https://b1mg-project.eu/resources/maturity-level-model) contains several indicators to help evaluate and advance data access procedures
 
-This is a community-driven website, so contributions are welcome! You will, of course, be listed as a contributor on the page.
 
 
