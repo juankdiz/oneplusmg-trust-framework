@@ -1,5 +1,5 @@
 ---
-title: Data governance(ELSI)
+title: Data governance (ELSI)
 description: Introduction to data governance
 ---
 

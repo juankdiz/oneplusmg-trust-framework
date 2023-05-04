@@ -1,7 +1,7 @@
 title: Trust Famework
 title_url: /index
 subitems:
-  - title: Data Life Cycle
+  - title: Data life cycle
     url: /data-life-cycle
     description: To facilitate the debate about how health data could be used more efficiently, we have identified six phases in the data lifecycle, from finding the right data to publishing the results of its use.
     image_url: /assets/img/section-icons/data-lifecycle-v1.svg
@@ -15,7 +15,7 @@ subitems:
     subitems:
       - title: "Researcher"
         url: /researcher
-      - title: "Data Access Committee member"
+      - title: "Data access committee member"
         url: /data-access-committee-member
       - title: "Product owner: infrastructure"
         url: /product-owner-infrastructure
@@ -23,39 +23,34 @@ subitems:
         url: /devops-infrastructure
       - title: "Healthcare"
         url: /healthcare
-
-  - title: Your domain
-    image_url: /assets/img/section-icons/dna-light.svg
-    url: /your-domain
-    description: Learn about data management tasks that affect your domain or research community, and the solutions adopted to address them.
   
   - title: Your use case
     image_url: /assets/img/section-icons/use-case.svg
     url: /your-usecase
     description: Learn about data management tasks that affect your domain or research community, and the solutions adopted to address them.
     subitems:
-      - title: "Rare Diseases"
+      - title: "Rare diseases"
         url: /rare-diseases
       - title: "Cancer"
         url: /cancer
       - title: "Common and complex diseases"
         url: /common-complex-diseases
-      - title: "Infectious Diseases"
+      - title: "Infectious diseases"
         url: /infectious-diseases
-      - title: "Population Genomics"
+      - title: "Population genomics"
         url: /population-genomics
 
-  - title: Data Governance(ELSI)
+  - title: Data governance (ELSI)
     url: /data-governance
     image_url: /assets/img/section-icons/data-governance-v1.svg
     description: Guidance and recommendations on how to address data governance and ELSI aspect to ensure data can be made available.
 
-  - title: Data Standards
+  - title: Data standards
     image_url: /assets/img/section-icons/data-standard-v1.svg
     url: /data-standards
     description: 1+MG minimal data model and recommendations on ontologies and data standards.
 
-  - title: Maturity Level 
+  - title: Maturity level 
     image_url: /assets/img/section-icons/maturity-level.svg
     url: /maturity-level
     description: Self-assessment maturation model to guide health care system on their journey to deploy genomic medicine.
@@ -69,5 +64,10 @@ subitems:
     image_url: /assets/img/section-icons/data-infrastructure-v1.svg
     url: /technical-infrastructure-standards
     description: Stack of standards, open source references implementations, synthetic data and proof of concepts that can be used to establish a 1+MG node.
+
+  - title: National resources
+    image_url: /assets/img/section-icons/nation.svg
+    url: /national-resources
+    description: Find pointers to country specific information resources and national research data management practices.
 
 
