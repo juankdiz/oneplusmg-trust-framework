@@ -46,8 +46,6 @@ Given this information, the researcher wanted to know:
 
 **Rare Disease Patient Registries:** through partner projects are RD-Connect and EJP-RD, the Trust Framework supports Rare Disease patient registries
 
-* RD-Connect Patient Registry: <br>
-[https://rd-connect.eu/what-we-do/phenotypic-data/rb-finder-for-registries/](https://rd-connect.eu/what-we-do/phenotypic-data/rb-finder-for-registries/)
 * EJP RD Rare Disease Patient Registries Initiative:<br>
 [https://resourcemap.ejprarediseases.org/](https://resourcemap.ejprarediseases.org/)
 
