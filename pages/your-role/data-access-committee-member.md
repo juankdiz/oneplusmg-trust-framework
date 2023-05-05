@@ -4,7 +4,7 @@ description: A member of a committee who is responsible for overseeing access to
 page_id: data-access-committee-member
 ---
 
-According to the [GA4GH DACReS Policy](https://www.ga4gh.org/wp-content/uploads/GA4GH-Data-Access-Committee-Guiding-Principles-and-Procedural-Standards-Policy-Final-version.pdf), a Data Access Committee is defined as: a body comprised of one or more members who are responsible for overseeing access to genomic and associated data for research subsequent to the primary purpose for which the data were collected, where requested by internal and external applicants to one or more repositories. 
+According to the GA4GH DACReS Policy, a Data Access Committee is defined as: a body comprised of one or more members who are responsible for overseeing access to genomic and associated data for research subsequent to the primary purpose for which the data were collected, where requested by internal and external applicants to one or more repositories. 
 
 DACs may oversee multiple distinct datasets or repositories. They may govern access by researchers within a particular institution, as well as external requestors from other institutions, sectors, or countries. DACs may grant direct access to datasets sent digitally in secure form to data users or that are stored in secure computing environments (e.g. a data safe haven). 
 

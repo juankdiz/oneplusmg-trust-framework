@@ -1,5 +1,5 @@
 ---
-title: Technical Infrastructure standards
+title: 'Technical Infrastructure: standards, proofs of concept, and APIs'
 description: Introduction to Technical Infrastructure standards
 ---
 
