@@ -8,15 +8,15 @@ description: Introduction to data access.
 
 A mechanism(s) by which the data controller can authorise access to select dataset(s)
 
-### 1+MG Data Access principles
+## 1+MG Data Access principles
 
 We are working on the content for this section.
 
-### Data Access workflow
+## Data Access workflow
 
 We are working on the content for this section.
 
-### Standards and Reference implementations
+## Standards and Reference implementations
 
 * #### [LS AAI](https://elixir-europe.org/platforms/compute/aai/overview) 
 
@@ -48,21 +48,21 @@ We are working on the content for this section.
     When a user from one federation wants to access a resource or service from another federation, the eduGAIN system provides a trusted connection between the two federations. This is done through a process called federation-to-federation (F2F) authentication, which allows the user to authenticate with their home federation and then be granted access to resources and services from the other federation.* 
 
 
-### B1MG Maturity Level Model
+## B1MG Maturity Level Model
 
 Domain III (Ethics, Legislation and Policy) and Domain VIII (Data Management Standards and Infrastructure) contain relevant guidance for evaluating your country or region’s current maturity and providing a [framework]((https://b1mg-project.eu/resources/maturity-level-model)) for advancement.
 
-### Related documents and policies
+## Related documents and policies
 
 We are working on the content for this section.
 
  
-### Training material
+## Training material
 
 We are working on the content for this section.
 
 
-### National resources and contact points
+## National resources and contact points
 
 We are working on the content for this section.
 
