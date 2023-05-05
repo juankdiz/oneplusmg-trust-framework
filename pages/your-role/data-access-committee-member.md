@@ -10,17 +10,17 @@ DACs may oversee multiple distinct datasets or repositories. They may govern acc
 
 DACS may also grant indirect access to data (i.e. model-to-data where data users submit algorithms to run on secure data sets that remain hidden).
 
-### 1+MG Data access governance principles
+## 1+MG Data access governance principles
 
-### Data access committee workflows
+## Data access committee workflows
 
-### Data access committee resources
+## Data access committee resources
 
 * #### User portal
     * The European User Portal is being developed under the European Genomic Data Infrastructure project.  The access management system within it will be designed to give a single entry point for user to request access and authenticate in the user portal, and to make the link to Identity and Access Management (IAM) provider.
 
 
-### ELSI docs related to DACs
+## ELSI docs related to DACs
 
 * #### [Data governance for research use](https://docs.google.com/document/d/1wnUjBMjntBBDfzV41KcwTp_HMoOyh1du/edit) (version after feedback 1+MG Group)
 
@@ -48,7 +48,7 @@ DACS may also grant indirect access to data (i.e. model-to-data where data users
 
 
 
-### Maturation of data access roles and tools
+## Maturation of data access roles and tools
 
 The [B1MG Maturity Level Model(MLM)](https://b1mg-project.eu/resources/maturity-level-model) contains several indicators to help evaluate and advance data access procedures
 
