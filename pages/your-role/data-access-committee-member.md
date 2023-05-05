@@ -1,5 +1,5 @@
 ---
-title: Data Access Committee member
+title: Data access committee member
 description: A member of a committee who is responsible for overseeing access to genomic and associated data.
 page_id: data-access-committee-member
 ---
@@ -10,13 +10,13 @@ DACs may oversee multiple distinct datasets or repositories. They may govern acc
 
 DACS may also grant indirect access to data (i.e. model-to-data where data users submit algorithms to run on secure data sets that remain hidden).
 
-### 1+MG Data Access Governance Principles
+### 1+MG Data access governance principles
 
-### Data Access Committee workflows
+### Data access committee workflows
 
-### Data Access committee resources
+### Data access committee resources
 
-* #### User Portal
+* #### User portal
     * The European User Portal is being developed under the European Genomic Data Infrastructure project.  The access management system within it will be designed to give a single entry point for user to request access and authenticate in the user portal, and to make the link to Identity and Access Management (IAM) provider.
 
 
@@ -48,7 +48,7 @@ DACS may also grant indirect access to data (i.e. model-to-data where data users
 
 
 
-### Maturation of Data Access roles and tools
+### Maturation of data access roles and tools
 
 The [B1MG Maturity Level Model(MLM)](https://b1mg-project.eu/resources/maturity-level-model) contains several indicators to help evaluate and advance data access procedures
 

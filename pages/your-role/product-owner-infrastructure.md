@@ -1,5 +1,5 @@
 ---
-title: Product owner- infrastructure
+title: Product owner - infrastructure
 description: Short text describing this role
 page_id: product-owner-infrastructure
 ---

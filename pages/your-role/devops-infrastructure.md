@@ -1,5 +1,5 @@
 ---
-title: Devops- infrastructure
+title: Devops - infrastructure
 description: Short text describing this role
 page_id: devops-infrastructure
 ---

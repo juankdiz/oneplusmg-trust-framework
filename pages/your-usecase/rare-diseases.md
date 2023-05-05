@@ -1,6 +1,6 @@
 ---
-title: Rare Diseases
-description: The Rare Disease Use Case has been the central use case demonstrating the 1+MG Infrastructure to date.
+title: Rare diseases
+description: The rare disease use case has been the central use case demonstrating the 1+MG Infrastructure to date.
 page_id: rare-diseases
 ---
 

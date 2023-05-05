@@ -1,5 +1,5 @@
 ---
-title: Your use cases
+title: Your use case
 description: Introduction to your use cases
 ---
 
