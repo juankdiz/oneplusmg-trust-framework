@@ -1,18 +1,11 @@
 ---
-title: National resources
-description: Introduction to national resources
+
+title: Italy
+country_code: IT
+contributors:
+coordinators:
+
 ---
-
-## Training materials
-
-## Guidance documentation
-
-## Country-specific solutions
-
-
-
-{% include section-navigation-tiles-simple.html type="national-resources" %}
-
 
 **We are still working on the content for this page.** If you are interested in adding to the page, then:
 

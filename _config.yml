@@ -76,6 +76,20 @@ defaults:
       path: "pages/your-usecase"
     values:
       type: your-usecase
+  -
+    scope:
+      path: "pages/national-resources"
+    values:
+      type: national-resources
+      datatable: true
+  -
+    scope:
+      path: "pages/national-resources/TEMPLATE_resources.md"
+      type: "pages"
+    values:
+      sitemap: false
+      search_exclude: true
+      no_robots: true
 
 plugins:
   - jemoji
