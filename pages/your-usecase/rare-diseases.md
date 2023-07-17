@@ -22,31 +22,34 @@ Given this information, the researcher wanted to know:
 1. What is the variant frequency across populations?
 1. Is there an association between the gene mutation and the disease?
 
-**Rare disease Proof of Concept:**
+## Rare disease Proof of Concept:
 
-* Proof of Concept completed  for Rare Disease utilising a number of existing GA4GH Standards 
-    * [Beacon](technical-infrastructure-standards#beacon)
-    * [DUO](technical-infrastructure-standards#data-use-ontology)
-    * [SAM,BAM, CRAM](technical-infrastructure-standards#vcf-sambamcram)
-    * [VCF]((technical-infrastructure-standards#vcf-sambamcram))
-    * [Crypt4gh](technical-infrastructure-standards#crypt4gh)
-    * [Htsget](technical-infrastructure-standards#htsget)
-    * [Phenopackets](technical-infrastructure-standards#phenopackets)
-    * [Passports](technical-infrastructure-standards#authentication-and-authorization-infrastructure-and-passports)
-    * [TES & WES](technical-infrastructure-standards#workflow--task-execution-service)
-    * And other existing services ([Matchmaker Exchange](https://www.google.com/url?q=https://www.matchmakerexchange.org/&sa=D&source=docs&ust=1683152792348141&usg=AOvVaw3RIcM1F1ZWt44C73K7r7T5), [FEGA](https://www.google.com/url?q=https://ega-archive.org/federated/&sa=D&source=docs&ust=1683152792348999&usg=AOvVaw11Ros7TlK5qNCKDluMgrWq) & Life Science AAI).
+Proof of Concept completed  for Rare Disease utilising a number of existing GA4GH Standards 
+* [Beacon](technical-infrastructure-standards#beacon)
+* [DUO](technical-infrastructure-standards#data-use-ontology)
+* [SAM,BAM, CRAM](technical-infrastructure-standards#vcf-sambamcram)
+* [VCF]((technical-infrastructure-standards#vcf-sambamcram))
+* [Crypt4gh](technical-infrastructure-standards#crypt4gh)
+* [Htsget](technical-infrastructure-standards#htsget)
+* [Phenopackets](technical-infrastructure-standards#phenopackets)
+* [Passports](technical-infrastructure-standards#authentication-and-authorization-infrastructure-and-passports)
+* [TES & WES](technical-infrastructure-standards#workflow--task-execution-service)
+* And other existing services ([Matchmaker Exchange](https://www.google.com/url?q=https://www.matchmakerexchange.org/&sa=D&source=docs&ust=1683152792348141&usg=AOvVaw3RIcM1F1ZWt44C73K7r7T5), [FEGA](https://www.google.com/url?q=https://ega-archive.org/federated/&sa=D&source=docs&ust=1683152792348999&usg=AOvVaw11Ros7TlK5qNCKDluMgrWq) & Life Science AAI).
 
 <div class="videoWrapper">
     <iframe width="560" height="349" src="https://www.youtube.com/embed/6MtIJA4xXdU" frameborder="0" allowfullscreen></iframe>
 </div>
 
-**Catalogue of Met and Unmet Use Case Needs:** Planned further activities to meet the needs of the use cases as of 13/12/2022
+## Catalogue of Met and Unmet Use Case Needs:
+
+Planned further activities to meet the needs of the use cases as of 13/12/2022
 
 * [B1MG D7.1](https://zenodo.org/record/7433377)
 
-**Rare Disease Patient Registries:** through partner projects are RD-Connect and EJP-RD, the Trust Framework supports Rare Disease patient registries
+## Rare Disease Patient Registries:
+through partner projects are RD-Connect and EJP-RD, the Trust Framework supports Rare Disease patient registries
 
 * EJP RD Rare Disease Patient Registries Initiative:<br>
 [https://resourcemap.ejprarediseases.org/](https://resourcemap.ejprarediseases.org/)
 
-**Rare Disease Synthetic Data Catalogue**
+## Rare Disease Synthetic Data Catalogue**
