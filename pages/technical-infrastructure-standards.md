@@ -59,7 +59,11 @@ This framework document will be part of the entire B1MG framework where other cr
 ### [Phenotypic and clinical metadata framework 2v0](https://zenodo.org/record/7554481)
 One of the crucial instruments for 1+MG is a phenotypic and clinical metadata framework which describes, in a commonly understandable language, the principles, models, and recommendations for sharing and linking of phenotypic and clinical metadata and genetic metadata between the member states.  This framework document proposes to adhere to standards for data capture and exchange.  It provides guidance on which standards, terminologies, and tools to use.  
 
+**We are still working on the content for this page.** If you are interested in adding to the page, then:
 
+[Feel free to contribute](how_to_contribute){: class="btn btn-primary btn-lg rounded-pill"}
+
+This is a community-driven website, so contributions are welcome! You will, of course, be listed as a contributor on the page.
 
 
 

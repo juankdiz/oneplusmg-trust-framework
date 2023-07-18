@@ -3,7 +3,11 @@ title: Data governance (ELSI)
 description: Introduction to data governance
 ---
 
-**Intro to 1+MG, B1MG, and GDI**
+**We are still working on the content for this page.** If you are interested in adding to the page, then:
+
+[Feel free to contribute](how_to_contribute){: class="btn btn-primary btn-lg rounded-pill"}
+
+This is a community-driven website, so contributions are welcome! You will, of course, be listed as a contributor on the page.
 
 The 1+ Million Genomes (1+MG) initiative aims to enable secure access to genomics and the
 corresponding clinical data across Europe for better research, personalised healthcare and

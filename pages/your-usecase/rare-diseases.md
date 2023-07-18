@@ -4,6 +4,12 @@ description: The rare disease use case has been the central use case demonstrati
 page_id: rare-diseases
 ---
 
+**We are still working on the content for this page.** If you are interested in adding to the page, then:
+
+[Feel free to contribute](how_to_contribute){: class="btn btn-primary btn-lg rounded-pill"}
+
+This is a community-driven website, so contributions are welcome! You will, of course, be listed as a contributor on the page.
+
 The Rare Disease Use Case has been the central use case demonstrating the 1+MG Infrastructure to date. The outcomes expected from the 1+MG initiative for this use case include:
 
 * Improved knowledge of the genetic make-up of RDs

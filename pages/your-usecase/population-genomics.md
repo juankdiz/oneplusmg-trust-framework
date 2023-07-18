@@ -4,6 +4,12 @@ description: Short text describing this use case
 page_id: population-genomics
 ---
 
+**We are still working on the content for this page.** If you are interested in adding to the page, then:
+
+[Feel free to contribute](how_to_contribute){: class="btn btn-primary btn-lg rounded-pill"}
+
+This is a community-driven website, so contributions are welcome! You will, of course, be listed as a contributor on the page.
+
 ## [Genome of Europe Plan](https://zenodo.org/record/8017856)
 
 A 1+MG initiative aiming to deliver more than 500,000 whole genome sequences (WGS) as a reference database to represent genetic diversity across Europe. One objective of the GoE is to contribute to the 1+MG effort begun in 2018 where 24 signatory countries declared to make the data accessible for the genomes of at least 1,000,000 European citizens.  This will require existing genomes to be made available for access and new genomes to be created by whole genome sequencing.  The main goal of this effort is to create the reference dataset for genomic health programs in European countries.
