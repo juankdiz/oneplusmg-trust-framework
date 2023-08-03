@@ -2,7 +2,7 @@
 title: Privacy
 ---
 
-This Privacy Policy explains what personal data is collected by the Trust Framework website.
+This Privacy Policy explains what personal data is collected by the 1+MG Framework website.
 
 
 ## What data we collect

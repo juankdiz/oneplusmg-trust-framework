@@ -1,5 +1,5 @@
 ---
-title: How to contribute to 1+MG Trust Framework
+title: How to contribute to 1+MG Framework
 ---
 
 ## Ways of contributing

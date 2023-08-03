@@ -53,7 +53,7 @@ Planned further activities to meet the needs of the use cases as of 13/12/2022
 * [B1MG D7.1](https://zenodo.org/record/7433377)
 
 ## Rare Disease Patient Registries:
-through partner projects are RD-Connect and EJP-RD, the Trust Framework supports Rare Disease patient registries
+through partner projects are RD-Connect and EJP-RD, the 1+MG Framework supports Rare Disease patient registries
 
 * EJP RD Rare Disease Patient Registries Initiative:<br>
 [https://resourcemap.ejprarediseases.org/](https://resourcemap.ejprarediseases.org/)
