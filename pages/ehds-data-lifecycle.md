@@ -9,13 +9,6 @@ This cycle has gone through multiple iterations by TEHDAS and we examine the con
 <img src="{{ 'assets/img/ehds-data-lifecycle.png' | relative_url }}" class="m-2" style="max-width: 100%; max-height: 100%; vertical-align: middle" alt="EHDS data lifecycle" />
 <center>TEHDAS Proposed Data Lifecycle</center>
 
-<br />
-**We are still working on the content for this page.** If you are interested in adding to the page, then:
-
-[Feel free to contribute](how_to_contribute){: class="btn btn-primary btn-lg rounded-pill"}
-
-This is a community-driven website, so contributions are welcome! You will, of course, be listed as a contributor on the page.
-
 
 <table class="datalifecycle">
     <tbody>
@@ -63,3 +56,10 @@ This is a community-driven website, so contributions are welcome! You will, of c
 The above table lists the stages of the TEHDAS Data Lifecycle (which encompases both the Data Preparation phase and the User Journey phase) and the associated elements of the 1+MG Framework.  The 1+MG Framework Governance and ELSI recommendations are relevant across the Data Lifecycle.
 
 There are some elements that fall outside of this mapping.  The TEHDAS Project Finalization stage is related to disclosure of results, which currently falls outside of the scope of 1+MG’s technical recomendations, but there are some relevant ELSI policies.  Additionally, there are some elements of the 1+MG Framework which fall outside of the TEHDAS Data Lifecycle including the Implementation of Genomics into Healthcare resources (focused on supporting national efforts at using genomic data within personalised medicine) and the specific scientific Use Case resources.
+
+<br />
+**We are still working on the content for this page.** If you are interested in adding to the page, then:
+
+[Feel free to contribute](how_to_contribute){: class="btn btn-primary btn-lg rounded-pill"}
+
+This is a community-driven website, so contributions are welcome! You will, of course, be listed as a contributor on the page.
