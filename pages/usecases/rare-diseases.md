@@ -22,7 +22,7 @@ Given this information, the researcher wanted to know:
 1. What is the variant frequency across populations?
 1. Is there an association between the gene mutation and the disease?
 
-## Rare disease Proof of Concept:
+## Rare disease Proof of Concept
 
 Proof of Concept completed  for Rare Disease utilising a number of existing GA4GH Standards 
 * [Beacon](technical-infrastructure-standards#beacon)
@@ -40,19 +40,19 @@ Proof of Concept completed  for Rare Disease utilising a number of existing GA4G
     <iframe width="560" height="349" src="https://www.youtube.com/embed/6MtIJA4xXdU" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## Catalogue of Met and Unmet Use Case Needs:
+## Catalogue of Met and Unmet Use Case Needs
 
 Planned further activities to meet the needs of the use cases as of 13/12/2022
 
 * [B1MG D7.1](https://zenodo.org/record/7433377)
 
-## Rare Disease Patient Registries:
+## Rare Disease Patient Registries
 through partner projects are RD-Connect and EJP-RD, the 1+MG Framework supports Rare Disease patient registries
 
 * EJP RD Rare Disease Patient Registries Initiative:<br>
 [https://resourcemap.ejprarediseases.org/](https://resourcemap.ejprarediseases.org/)
 
-## Rare Disease Synthetic Data Catalogue**
+## Rare Disease Synthetic Data Catalogue
 
 
 **We are still working on the content for this page.** If you are interested in adding to the page, then:

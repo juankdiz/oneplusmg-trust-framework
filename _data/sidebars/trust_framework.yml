@@ -32,11 +32,6 @@ subitems:
     url: /data-models-ontologies
     description: 1+MG minimal data model and recommendations on ontologies and data standards.
 
-  - title: Maturity level 
-    image_url: /assets/img/section-icons/maturity-level.svg
-    url: /maturity-level
-    description: Self-assessment maturation model to guide health care system on their journey to deploy genomic medicine.
-
   - title: Sequencing guidelines
     image_url: /assets/img/section-icons/data-quality-v1.svg
     url: /sequencing-guidelines
