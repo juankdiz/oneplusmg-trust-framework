@@ -6,6 +6,10 @@ contributors:
 coordinators:
     
 ---
+## Starter Kit implementation documentation: 
+
+[https://github.com/GenomicDataInfrastructure/starter-kit-se-deployment-notes/tree/docs/initial-documentation](https://github.com/GenomicDataInfrastructure/starter-kit-se-deployment-notes/tree/docs/initial-documentation)
+
 
 **We are still working on the content for this page.** If you are interested in adding to the page, then:
 

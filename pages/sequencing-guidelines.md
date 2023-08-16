@@ -1,6 +1,6 @@
 ---
-title: Data quality
-description: Introduction to data quality
+title: Sequencing Guidelines
+description: Introduction to sequencing guidelines
 ---
 
 **We are still working on the content for this page.** If you are interested in adding to the page, then:

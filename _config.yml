@@ -26,8 +26,7 @@ exclude:
   - .gitignore
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages"
     values:
@@ -35,16 +34,17 @@ defaults:
       layout: "page"
       sidebar: trust_framework
       search_exclude: false
+
+  - 
+    scope:
+      path: "pages/about"
+    values:
+      sidebar: about
   -
     scope:
       path: "pages/contribute"
     values:
       sidebar: contribute
-  -
-    scope:
-      path: "pages/about"
-    values:
-      sidebar: about
   -
     scope:
       path: "pages/data-life-cycle"
@@ -73,9 +73,9 @@ defaults:
       no_robots: true
   -
     scope:
-      path: "pages/your-usecase"
+      path: "pages/your-usecases"
     values:
-      type: your-usecase
+      type: your-usecases
   -
     scope:
       path: "pages/national-resources"

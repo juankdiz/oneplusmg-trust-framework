@@ -20,7 +20,7 @@ GoE was created to have a large, European-wide collection of subgroup-specific r
 
 * Contributions per country are expected to be proportional to the country's population
 * Minimum of 1,000 per population subgroup identified to support the detection of rare frequency variants and the comprehensive detection of common variants
-* Ancestral composition: Member states provided the country of origin composition of their population as a proxy for ancestry.  40 ancestral subgroups were identified and included both country-specific subgroups outside of Europe (such as Turkey and Morocco) as well as groups that are not represented by a specific location (such as Roma). Countries that have their own national genome programs were excluded (such as the UK and China).  The sequencing of these groups were distributed across the countries based on the country contributions, the minimum samples per subgroup and the proportion of subgroups in each country.
+* Ancestral composition: Member states provided the country of origin composition of their population as a proxy for ancestry.  40 ancestral subgroups were identified and included both country-specific subgroups outside of Europe (such as Turkey and Morocco) as well as groups that are not represented by a specific location (such as Roma). Countries that have their own national genome programs were excluded (such as the UK and China).  The sequencing of these groups was distributed across the countries based on the country contributions, the minimum samples per subgroup and the proportion of subgroups in each country.
 
 ### WGS technology and data requirements
 

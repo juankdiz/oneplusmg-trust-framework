@@ -1,7 +1,11 @@
 subitems:
-  - title: 1+MG Framework
-    url: /index
+  - title: Home
+    url: /
   - title: About
-    url: /about
+    subitems:
+      - title: About the Framework
+        url: /about-the-framework
+      - title: How to use the Framework
+        url: /how-to-use-framework
   - title: Contribute
     url: /how_to_contribute

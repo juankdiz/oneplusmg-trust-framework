@@ -1,6 +1,8 @@
 title: Contribute
 title_url: /how_to_contribute
 subitems:
+  - title: Editorial/Contribution guidelines
+    url: /editorial_guidelines
   - title: Ways to contribute
     subitems:
       - title: GitHub way

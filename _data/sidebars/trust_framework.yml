@@ -1,32 +1,14 @@
 title: 1+MG Framework
 title_url: /index
 subitems:
-  - title: Data life cycle
-    url: /data-life-cycle
-    description: To facilitate the debate about how health data could be used more efficiently, we have identified six phases in the data lifecycle, from finding the right data to publishing the results of its use.
-    image_url: /assets/img/section-icons/data-lifecycle-v1.svg
-    subitems:
-      - RDM: True
-
-  - title: Your role
-    image_url: /assets/img/section-icons/address-card-light.svg
-    url: /your-role
-    description: Identify your role in research data management, find data management resources relevant for you, and information to help you progress in your career path.
-    subitems:
-      - title: "Researcher"
-        url: /researcher
-      - title: "Data access committee member"
-        url: /data-access-committee-member
-      - title: "Product owner: infrastructure"
-        url: /product-owner-infrastructure
-      - title: "Devops: infrastructure"
-        url: /devops-infrastructure
-      - title: "Healthcare"
-        url: /healthcare
+  - title: TEHDAS’ Data Lifecycle
+    url: /ehds-data-lifecycle
+    description: Outlining how the elements of the 1+MG Framework align with the European Health Data Space User Journey and Data Life Cycle
+    image_url: /assets/img/section-icons/user-journey.svg
   
-  - title: Your use case
+  - title: Your use cases
     image_url: /assets/img/section-icons/use-case.svg
-    url: /your-usecase
+    url: /your-usecases
     description: Learn about data management tasks that affect your domain or research community, and the solutions adopted to address them.
     subitems:
       - title: "Rare diseases"
@@ -40,14 +22,14 @@ subitems:
       - title: "Population genomics"
         url: /population-genomics
 
-  - title: Data governance (ELSI)
+  - title: Data governance ELSI
     url: /data-governance
     image_url: /assets/img/section-icons/data-governance-v1.svg
     description: Guidance and recommendations on how to address data governance and ELSI aspect to ensure data can be made available.
 
-  - title: Data standards
+  - title: Data models & ontologies
     image_url: /assets/img/section-icons/data-standard-v1.svg
-    url: /data-standards
+    url: /data-models-ontologies
     description: 1+MG minimal data model and recommendations on ontologies and data standards.
 
   - title: Maturity level 
@@ -55,19 +37,29 @@ subitems:
     url: /maturity-level
     description: Self-assessment maturation model to guide health care system on their journey to deploy genomic medicine.
 
-  - title: Quality
+  - title: Sequencing guidelines
     image_url: /assets/img/section-icons/data-quality-v1.svg
-    url: /data-quality
+    url: /sequencing-guidelines
     description: Quality requirements for WGS/WES data to be labelled as 1+MG complaint and other genomic data.
   
-  - title: Infrastructure
+  - title: Technical Infrastructure
     image_url: /assets/img/section-icons/data-infrastructure-v1.svg
-    url: /technical-infrastructure-standards
+    url: /technical-infrastructure
     description: Stack of standards, open source references implementations, synthetic data and proof of concepts that can be used to establish a 1+MG node.
+    subitems:
+      - title: "Infrastructure Vision"
+        url: /infrastructure-vision
+      - title: "Infrastructure Components"
+        url: /infrastructure-components
 
   - title: National resources
     image_url: /assets/img/section-icons/nation.svg
     url: /national-resources
     description: Find pointers to country specific information resources and national research data management practices.
+  
+  - title: Genomics into healthcare
+    image_url: /assets/img/section-icons/genomics-into-healthcare.svg
+    url: /genomics-into-healthcare
+    description: Self-assessment maturation model to guide health care systems on their journey to deploy genomic medicine.
 
 
