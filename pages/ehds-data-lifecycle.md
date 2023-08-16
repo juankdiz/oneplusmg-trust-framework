@@ -26,32 +26,32 @@ This is a community-driven website, so contributions are welcome! You will, of c
         <tr>
             <td colspan="1" rowspan="4">Data Preparation</td>
             <td colspan="1" rowspan="1">Collection</td>
-            <td colspan="1" rowspan="1">Sequencing Guidelines</td>
+            <td colspan="1" rowspan="1"><a href="{{ '/sequencing-guidelines' | relative_url }}">Sequencing Guidelines</a></td>
             <td colspan="1" rowspan="8">Governance &amp; ELSI</td>
         </tr>
         <tr class="c7">
             <td colspan="1" rowspan="2">Standardization</td>
-            <td colspan="1" rowspan="1">Data Models &amp; Ontologies</td>
+            <td colspan="1" rowspan="1"><a href="{{ '/data-models-ontologies' | relative_url }}">Data Models &amp; Ontologies</a></td>
         </tr>
         <tr>
-            <td colspan="1" rowspan="1">Data Reception</td>
+            <td colspan="1" rowspan="1"><a href="{{ '/technical-infrastructure#data-reception' | relative_url }}">Data Reception</a></td>
         </tr>
         <tr>
             <td colspan="1" rowspan="1">Publication</td>
-            <td colspan="1" rowspan="1">Data Storage &amp; Management</td>
+            <td colspan="1" rowspan="1"><a href="{{ '/technical-infrastructure#storage--interfaces' | relative_url }}">Data Storage &amp; Management</a></td>
         </tr>
         <tr>
             <td colspan="1" rowspan="4">Users' Journey</td>
-            <td colspan="1" rowspan="1">Discovery</td>
-            <td colspan="1" rowspan="1">Data Discovery</td>
+            <td colspan="1" rowspan="1">Discovery</td>discoverability
+            <td colspan="1" rowspan="1"><a href="{{ '/technical-infrastructure#data-discoverability' | relative_url }}">Data Discovery</a></td>
         </tr>
         <tr>
             <td colspan="1" rowspan="1">Permit Application</td>
-            <td colspan="1" rowspan="1">Data Access Management</td>
+            <td colspan="1" rowspan="1"><a href="{{ '/technical-infrastructure#data-access-management-tools' | relative_url }}">Data Access Management</a></td>
         </tr>
         <tr>
             <td colspan="1" rowspan="1">Use</td>
-            <td colspan="1" rowspan="1">Data Processing</td>
+            <td colspan="1" rowspan="1"><a href="{{ '/technical-infrastructure#processing' | relative_url }}">Data Processing</a></td>
         </tr>
         <tr>
             <td colspan="1" rowspan="1">Project Finalization</td>
