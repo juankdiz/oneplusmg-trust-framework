@@ -4,7 +4,8 @@ title: About the Framework
 
 ## Framework Contents and EC Projects
 
-The 1+MG Framework is meant to provide a user friendly interface to navigate the guidelines and recommendations provided by the 1+MG Working Groups and the project supporting the initiative across the different phases of its implementation.  
+The 1+MG Framework is meant to provide a user friendly interface to navigate the guidelines and recommendations provided by the 1+MG Working Groups and the project supporting the initiative across the different phases of its implementation: currently the  Beyond 1 Million Genomes (B1MG) and the European Genomic Data Infrastructure (GDI) projects.
+
 
 <img src="{{ 'assets/img/about-framework-figure-1.jpg' | relative_url }}" class="m-2" style="max-width: 100%; max-height: 100%; vertical-align: middle" alt="About the 1+MG framework" />
 
