@@ -6,9 +6,9 @@ subitems:
     description: Outlining how the elements of the 1+MG Framework align with the European Health Data Space User Journey and Data Life Cycle
     image_url: /assets/img/section-icons/user-journey.svg
   
-  - title: Your use cases
+  - title: Use cases
     image_url: /assets/img/section-icons/use-case.svg
-    url: /your-usecases
+    url: /usecases
     description: Learn about data management tasks that affect your domain or research community, and the solutions adopted to address them.
     subitems:
       - title: "Rare diseases"

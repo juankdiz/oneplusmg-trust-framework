@@ -73,9 +73,9 @@ defaults:
       no_robots: true
   -
     scope:
-      path: "pages/your-usecases"
+      path: "pages/usecases"
     values:
-      type: your-usecases
+      type: usecases
   -
     scope:
       path: "pages/national-resources"
