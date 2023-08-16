@@ -30,12 +30,12 @@ subitems:
   - title: Data models & ontologies
     image_url: /assets/img/section-icons/data-standard-v1.svg
     url: /data-models-ontologies
-    description: 1+MG minimal data model and recommendations on ontologies and data standards.
+    description: 1+MG minimal data models for different use cases and recommendations on ontologies and data standards
 
   - title: Sequencing guidelines
     image_url: /assets/img/section-icons/data-quality-v1.svg
     url: /sequencing-guidelines
-    description: Quality requirements for WGS/WES data to be labelled as 1+MG complaint and other genomic data.
+    description: Sequence data generation and quality requirements for WGS/WES data to be labelled as 1+MG complaint
   
   - title: Technical Infrastructure
     image_url: /assets/img/section-icons/data-infrastructure-v1.svg

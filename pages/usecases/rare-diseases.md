@@ -25,16 +25,16 @@ Given this information, the researcher wanted to know:
 ## Rare disease Proof of Concept
 
 Proof of Concept completed  for Rare Disease utilising a number of existing GA4GH Standards 
-* [Beacon](technical-infrastructure-standards#beacon)
-* [DUO](technical-infrastructure-standards#data-use-ontology)
-* [SAM,BAM, CRAM](technical-infrastructure-standards#vcf-sambamcram)
-* [VCF]((technical-infrastructure-standards#vcf-sambamcram))
-* [Crypt4gh](technical-infrastructure-standards#crypt4gh)
-* [Htsget](technical-infrastructure-standards#htsget)
-* [Phenopackets](technical-infrastructure-standards#phenopackets)
-* [Passports](technical-infrastructure-standards#authentication-and-authorization-infrastructure-and-passports)
-* [TES & WES](technical-infrastructure-standards#workflow--task-execution-service)
-* And other existing services ([Matchmaker Exchange](https://www.google.com/url?q=https://www.matchmakerexchange.org/&sa=D&source=docs&ust=1683152792348141&usg=AOvVaw3RIcM1F1ZWt44C73K7r7T5), [FEGA](https://www.google.com/url?q=https://ega-archive.org/federated/&sa=D&source=docs&ust=1683152792348999&usg=AOvVaw11Ros7TlK5qNCKDluMgrWq) & [Life Science AAI](/infrastructure-components#access-management)).
+* Beacon
+* DUO
+* SAM,BAM, CRAM
+* VCF
+* Crypt4gh
+* Htsget
+* Phenopackets
+* Passports
+* TES & WES
+* And other existing services (Matchmaker Exchange, FEGA & Life Science AAI).
 
 <div class="videoWrapper">
     <iframe width="560" height="349" src="https://www.youtube.com/embed/6MtIJA4xXdU" frameborder="0" allowfullscreen></iframe>
@@ -53,6 +53,7 @@ through partner projects are RD-Connect and EJP-RD, the 1+MG Framework supports 
 [https://resourcemap.ejprarediseases.org/](https://resourcemap.ejprarediseases.org/)
 
 ## Rare Disease Synthetic Data Catalogue
+
 
 
 **We are still working on the content for this page.** If you are interested in adding to the page, then:
