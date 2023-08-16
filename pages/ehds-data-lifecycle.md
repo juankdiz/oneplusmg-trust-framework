@@ -35,7 +35,7 @@ This cycle has gone through multiple iterations by TEHDAS and we examine the con
         </tr>
         <tr>
             <td colspan="1" rowspan="4">Users' Journey</td>
-            <td colspan="1" rowspan="1">Discovery</td>discoverability
+            <td colspan="1" rowspan="1">Discovery</td>
             <td colspan="1" rowspan="1"><a href="{{ '/technical-infrastructure#data-discoverability' | relative_url }}">Data Discovery</a></td>
         </tr>
         <tr>
