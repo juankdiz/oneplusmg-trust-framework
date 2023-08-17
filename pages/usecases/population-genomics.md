@@ -10,7 +10,7 @@ A 1+MG initiative aiming to deliver more than 500,000 whole genome sequences (WG
 
 GoE was created to have a large, European-wide collection of subgroup-specific reference datasets as “normal” or “reference” genomes.  These can be used to a) document and quantify genetic diversity and heterogeneity across European populations to assist with b) interpreting potentially clinical or pathogenic genetic variants in comparison to disease-specific genomes as well as c) to recalibrate genetic risk profiles to ancestral backgrounds, which is important for developing population-specific polygenic risk scores and d) as a reference panel for imputations in lower resolution, but larger scale array genotyping efforts.
 
-You can see the full article on [Zenodo community](https://zenodo.org/record/8017856).
+You can see the full GDI Deliverable detailing the GoE plan on [Zenodo community](https://zenodo.org/record/8017856).
 
 ### WGS contributions expected
 
