@@ -3,7 +3,6 @@ title: Access management
 description: Introduction to access management
 ---
 
-## Access management
 Sensitive data needs specialised services to manage data in an ELSI compliant way. These include e.g. central access portal, central access review process, single collaboration/data use agreement. These tools store user applications for data use and the decisions from the data controllers, i.e. data access authorisations within the legal framework, as well as APIs and standards to communicate access rights to downstream infrastructure services. Together, these tools and processes facilitate and audit secure access for users on a chosen Data Processing service platform.
 
 ### [Data Use Ontology](https://www.ga4gh.org/product/data-use-ontology-duo/)

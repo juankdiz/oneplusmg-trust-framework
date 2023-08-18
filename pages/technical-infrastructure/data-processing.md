@@ -4,8 +4,6 @@ description: Introduction to data processing
 ---
 
 
-## Data processing
-
 Local, high-performance and cloud computing must fulfil appropriate security standards to provide processing capacities for human data coordinated in 1+MG. Distinct processing events happen on the infrastructure: Localisation of the data and code to the appropriate platform (local or distributed) and data analysis by the individual data user who has acquired the access rights for the intended data use. 
 
 

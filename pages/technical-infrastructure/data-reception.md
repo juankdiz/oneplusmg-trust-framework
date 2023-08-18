@@ -3,8 +3,6 @@ title: Data reception
 description: Introduction to data reception
 ---
 
-## Data reception
-
 Uniform processes (such as quality control and standardisation) to receive (download) or access (API) both data and metadata in a consistent way enabling infrastructure to adhere to global standards and principles (e.g. GA4GH, FAIR) for genotypic and phenotypic data. Data reception means logically describing datasets to an extent that they can become actionable on the 1+MG infrastructure even if they are stored nationally or locally.
 
 Physical transfer of data into the 1+MG Data Node (when required) incl., legal transfer of data to enable visibility in a data catalogue. While 1+MG could be able to provide access to current genomic data collections across Europe the 1+MG Framework define the quality requirements for a data collection to be 1+MG compliant (e.g. re-consent and data management activities could be required for a existing dat collection to be 1+MG compliant).

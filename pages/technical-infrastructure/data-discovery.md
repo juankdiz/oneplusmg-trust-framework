@@ -3,9 +3,7 @@ title: Data discovery
 description: Introduction to data discovery
 ---
 
-## Data discovery
-
-Provides the public visibility to the combined 1+MG dataset by making selected descriptive metadata searchable. Data discovery service will collect summary level (but not sensitive) descriptions of all data available from the signatory states. It will link directly to Data Access Management where users can apply for data access.
+Data discovery provides the public visibility to the combined 1+MG dataset by making selected descriptive metadata searchable. Data discovery service will collect summary level (but not sensitive) descriptions of all data available from the signatory states. It will link directly to Data Access Management where users can apply for data access.
 
 Discovery of data using GDPR compliant APIs that will fulfil Data Protection by Default and Design Principles ( work in progress).
 

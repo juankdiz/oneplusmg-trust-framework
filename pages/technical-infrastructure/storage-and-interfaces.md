@@ -3,8 +3,6 @@ title: Storage and Interfaces
 description: Introduction to Infrastructure components
 ---
 
-## Storage and Interfaces
-
 Organisations store data and offer interfaces (APIs) following international standards that form the technically interoperable infrastructure backbone. Service building is assumed to leverage national and European investments in e-infrastructure capacities. Storage & interfaces need to provide techniques ensuring data privacy and confidentiality.
 
 ### [Federated European Genome Archive (EGA)](https://ega-archive.org/federated) Technologies
