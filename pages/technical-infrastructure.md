@@ -3,21 +3,35 @@ title: 'Technical Infrastructure'
 description: Introduction to Technical Infrastructure
 ---
 
+## Infrastructure Vision
+
+### [B1MG Secure cross-border data access roadmap](https://zenodo.org/record/5018526#.YXGlNNbMKdY): June 2021
+
+A  roadmap presented here is to define the timelines to provide a proof of concept demonstrator of secure cross border data access, describe the technologies required to develop such a demonstrator, and to detail the work that has gone into determining the roadmap and requirement for the proof of concept demonstrator. The roadmap also outlines how it is expected that the work carried out towards the initial proof of concept will support the developing roadmap for 2022 and beyond, as the proof of concept evolves from a demonstrator with synthetic data to a production system accessing real genetic and phenotypic data.
+
+### [B1MG Secure Access Demonstrator](https://zenodo.org/record/7590822)
+
+The 1+MG data infrastructure needs to be defined to ensure data managed within the federated network are compliant with the European and national legislation on data protection, security, and ELSI principles agreed in 1+MG. At the same time the aim is to maximise the Findability, Accessibility, Interoperability and Reusability of the 1+MG data, according to FAIR principles. 
+
+In this deliverable a Proof of Concept (PoC) was built using existing standards, applications, and services to demonstrate cross border data access for two 1+MG use cases; rare disease and cancer. The intention is to create a technical infrastructure baseline and advancement for the next iteration of implementation data protection principles according to the GDPR
+
+## Infrastructure Components: Guidance and Standards
+
 The 1+MG technical infrastructure is broken down into five functionalities as defined in the 2021 paper titled, [“Towards a Proof of Concept of Federated Infrastructure for the EU 1+ Million Genome Initiative”](https://zenodo.org/record/6089583).  This includes: Data Discovery, Data Reception, Storage and Interfaces, Data Access Management, and Processing.  Each of these functionalities were originally defined as follows:
 
-## Data Discoverability
+### Data Discoverability
 Data discoverability Provides the public visibility to the combined 1+MG dataset by making selected descriptive metadata searchable. Data discovery service will collect summary level (but not sensitive) descriptions of all data available from the signatory states. It will link directly to Data Access Management where users can apply for data access.
 
-## Data Reception
+### Data Reception
 Uniform processes (such as quality control and standardisation) to receive (download) or access (API) both data and metadata in a consistent way enabling infrastructure to adhere to global standards and principles (e.g. GA4GH, FAIR) for genotypic and phenotypic data. Data reception means logically describing datasets to an extent that they can become actionable on the 1+MG infrastructure even if they are stored nationally or locally. 
 
-## Storage & Interfaces
+### Storage & Interfaces
 Organisations store data and offer interfaces (APIs) following international standards that form the technically interoperable infrastructure backbone. Service building is assumed to leverage national and European investments in e-infrastructure capacities. Storage & interfaces need to provide techniques ensuring data privacy and confidentiality.
 
-## Data Access Management Tools
+### Data Access Management Tools
 Sensitive data needs specialised services to manage data in an ELSI-compliant way. These include e.g. central access portal, central access review process, single collaboration/data use agreement. These tools store user applications for data use and the decisions from the data controllers, i.e. data access authorisations within the legal framework, as well as APIs and standards to communicate access rights to downstream infrastructure services. Together, these tools and processes facilitate and audit secure access for users on a chosen Data Processing service platform.
 
-## Processing
+### Processing
 Local, high-performance and cloud computing must fulfil appropriate security standards to provide processing capacities for human data coordinated in 1+MG. Distinct processing events happen on the infrastructure: Localisation of the data and code to the appropriate platform (local or distributed) and data analysis by the individual data user who has acquired the access rights for the intended data use. 
 
 

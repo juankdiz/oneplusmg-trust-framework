@@ -42,10 +42,16 @@ subitems:
     url: /technical-infrastructure
     description: Stack of standards, open source references implementations, synthetic data and proof of concepts that can be used to establish a 1+MG node.
     subitems:
-      - title: "Infrastructure Vision"
-        url: /infrastructure-vision
-      - title: "Infrastructure Components"
-        url: /infrastructure-components
+      - title: "Data discovery"
+        url: /data-discovery
+      - title: "Data reception"
+        url: /data-reception
+      - title: "Storage and interfaces"
+        url: /storage-and-interfaces
+      - title: "Access management"
+        url: /access-management
+      - title: "Data processing"
+        url: /data-processing        
 
   - title: National resources
     image_url: /assets/img/section-icons/nation.svg

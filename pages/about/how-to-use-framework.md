@@ -24,8 +24,8 @@ If you are already familiar with the projects or know the type of guidance or re
 **Governance & ELSI:** Legal and ethical framework to support the European genomics data infrastructure
 National Resources: tools and guidance created by the Nodes to implement the 1+MG Framework including technical implementations, ELSI documents, training, etc.
 
-### Perspectives
-If you are new to the 1+MG Framework and you want to understand how to use or implement elements of it, it is advised that you enter through the Perspectives section.  In this section you will find:
+### Applying the Framework
+If you are new to the 1+MG Framework and you want to understand how to use or implement elements of it, it is advised that you enter through applying the Framework section.  In this section you will find:
 
 * EHDS Data lifecycle: Outlining how the elements of the 1+MG Framework align with the European Health Data Space User Journey and Data Life Cycle
 * Use Cases: The available Framework resources specific to a use case including cancer, rare disease, common & complex disease, infectious disease, and and population genomics.
