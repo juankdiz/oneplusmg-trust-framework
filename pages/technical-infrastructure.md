@@ -15,7 +15,7 @@ The 1+MG data infrastructure needs to be defined to ensure data managed within t
 
 In this deliverable a Proof of Concept (PoC) was built using existing standards, applications, and services to demonstrate cross border data access for two 1+MG use cases; rare disease and cancer. The intention is to create a technical infrastructure baseline and advancement for the next iteration of implementation data protection principles according to the GDPR
 
-## Infrastructure Components: Guidance and Standards
+## Infrastructure Components
 
 The 1+MG technical infrastructure is broken down into five functionalities as defined in the 2021 paper titled, [“Towards a Proof of Concept of Federated Infrastructure for the EU 1+ Million Genome Initiative”](https://zenodo.org/record/6089583).  This includes: Data Discovery, Data Reception, Storage and Interfaces, Data Access Management, and Processing.  Each of these functionalities were originally defined as follows:
 
