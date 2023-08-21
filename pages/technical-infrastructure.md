@@ -3,6 +3,7 @@ title: 'Technical Infrastructure'
 description: Introduction to Technical Infrastructure
 ---
 
+
 ## Infrastructure Vision
 
 ### [B1MG Secure cross-border data access roadmap](https://zenodo.org/record/5018526#.YXGlNNbMKdY): June 2021
