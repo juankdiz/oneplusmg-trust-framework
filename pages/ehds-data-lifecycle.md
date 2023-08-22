@@ -13,14 +13,14 @@ This cycle has gone through multiple iterations by TEHDAS and we examine the con
 <table class="datalifecycle">
     <tbody>
         <tr>
-            <td colspan="2" rowspan="1">EHDS</td>
-            <td colspan="2" rowspan="1">1+MG Framework</td>
+            <td colspan="2" rowspan="1" class="text-center">EHDS</td>
+            <td colspan="2" rowspan="1" class="text-center">1+MG Framework</td>
         </tr>
         <tr>
-            <td colspan="1" rowspan="4">Data Preparation</td>
+            <td colspan="1" rowspan="4" class="text-center align-middle pink">Data Preparation</td>
             <td colspan="1" rowspan="1">Collection</td>
             <td colspan="1" rowspan="1"><a href="{{ '/sequencing-guidelines' | relative_url }}">Sequencing Guidelines</a></td>
-            <td colspan="1" rowspan="8">Governance &amp; ELSI</td>
+            <td colspan="1" rowspan="8" class="text-center align-middle">Governance &amp; ELSI</td>
         </tr>
         <tr class="c7">
             <td colspan="1" rowspan="2">Standardization</td>
@@ -34,7 +34,7 @@ This cycle has gone through multiple iterations by TEHDAS and we examine the con
             <td colspan="1" rowspan="1"><a href="{{ '/technical-infrastructure#storage--interfaces' | relative_url }}">Data Storage &amp; Management</a></td>
         </tr>
         <tr>
-            <td colspan="1" rowspan="4">Users' Journey</td>
+            <td colspan="1" rowspan="4" class="text-center align-middle light-green">Users' Journey</td>
             <td colspan="1" rowspan="1">Discovery</td>
             <td colspan="1" rowspan="1"><a href="{{ '/technical-infrastructure#data-discoverability' | relative_url }}">Data Discovery</a></td>
         </tr>

@@ -16,13 +16,22 @@ If you are already familiar with the projects or know the type of guidance or re
 
 ### Implementations
 
-**Implementation into Healthcare:** guidance to promote and facilitate the adoption of genomics by healthcare systems for making personalised medicine accessible to citizens and patients across Europe.
+* Implementation into Healthcare: guidance to promote and facilitate the adoption of genomics by healthcare systems for making personalised medicine accessible to citizens and patients across Europe.
 
-* B1MG Maturity Level Model: framework to enable all interested countries to self evaluate the level of maturity of national genomic medicine practices following a common matrix.
-* Health Economic Models
+    * B1MG Maturity Level Model: framework to enable all interested countries to self evaluate the level of maturity of national genomic medicine practices following a common matrix.
+    * Health Economic Models
 
-**Governance & ELSI:** Legal and ethical framework to support the European genomics data infrastructure
-National Resources: tools and guidance created by the Nodes to implement the 1+MG Framework including technical implementations, ELSI documents, training, etc.
+* Governance & ELSI: Legal and ethical framework to support the European genomics data infrastructure
+
+* National Resources: tools and guidance created by the Nodes to implement the 1+MG Framework including technical implementations, ELSI documents, training, etc.
+
+### Required/Recommended/Informational Labels 
+In order to determine the importance of each resource for development of each Node, most resources are labelled with one of the following tags:
+
+* Required: Some or all of this resource is required for being part of this infrastructure.  In some cases (particularly with the policies) some parts of the resource will be optional (and will be labeled with the language “may”, “should”, or “must” as appropriate), however some elements are required and are thus given this overall label.
+* Recommended: While not integral to being part of the infrastructure, these are helpful resources which will help you align across Europe and beyond and have been vetted by the project teams.
+* Informational: These are resources that serve as guides and background information.
+
 
 ### Applying the Framework
 If you are new to the 1+MG Framework and you want to understand how to use or implement elements of it, it is advised that you enter through applying the Framework section.  In this section you will find:
