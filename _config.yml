@@ -32,7 +32,8 @@ defaults:
     values:
       permalink: /:basename
       layout: "page"
-      sidebar: trust_framework
+      sidebar1: trust_framework
+      sidebar2: trust_framework2
       search_exclude: false
 
   - 

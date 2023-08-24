@@ -9,22 +9,22 @@ This guide tells you how you can easily request and edit a page on this website.
 **Prerequisite:** [create a GitHub account](https://github.com/join) before you start. It's easy and free.
 
 ## Announce and discuss your proposal through GitHub "issues"
-1. Go to the [RDMkit repo](https://github.com/elixir-europe/rdmkit) on GitHub.
+1. Go to the [1+MG Framework repo](https://github.com/GenomicDataInfrastructure/oneplusmg-framework) on GitHub.
 2. Click on "Issues" in the top menu bar and look at the existing issues. See if your idea or suggestion is already being discussed.
       * **If an issue exists**, add your comments. If you want to edit the content discussed, let people know through the comments.
       * **If no relevant issue exists**, create a new issue by clicking on the green "New issue" button on the right, and choose one of the issues templates. You can find more information on creating issues in the [GitHub documentation](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue).
 3. Discuss your idea with the editors through comments in the issues. You will be notified when others comment on your issues. Read the comments and write your opinion/questions/answers in the "Leave a comment" box and click on the green "Comment" button on the right.
-4. You can always return to your opened issue by going to the [issues section](https://github.com/elixir-europe/rdmkit/issues) of our GitHub repo.
+4. You can always return to your opened issue by going to the [issues section](https://github.com/GenomicDataInfrastructure/oneplusmg-framework/issues) of our GitHub repo.
 
-{% include callout.html type="tip" content="You can also get to the [RDMkit pages](https://github.com/elixir-europe/rdmkit) on GitHub using the 'GitHub' link in the header of this site" %}
+{% include callout.html type="tip" content="You can also get to the [1+MG Framework pages](https://github.com/GenomicDataInfrastructure/oneplusmg-framework) on GitHub using the 'GitHub' link in the header of this site" %}
 
 ## Write your content and make a pull request
 
 1. When you and the editors have agreed on what you will do, go to the page you want to edit on the website. Click on "Edit me" pencil icon :pencil:, shown next to the page title. If you want to add a new page, the editors will give you the link to the page via comments in the issue you created. The page will come with a predefined template, based on the kind of content you want to contribute.
 1. The "Edit me" pencil icon will take you to the GitHub repository, where you again click on the pencil icon, shown on the right, and start editing.
    {% include image.html file="raw_github.png" inline=true alt="Editing a page on GitHub" %}
-1. You can now edit or add new text and images according to the provided template. GitHub provide a [guide for writing and formatting in GitHub](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github). We also provide a [markdown cheat sheet](markdown_cheat_sheet) to show you how to write in this webpage. Make sure to read our [style guide](style_guide) before start writing. In general, try to avoid manual interlinking of RDMkit pages.
-1. If you have mentioned tools or resources in your text, make sure to add them to the [tool and resource list](tool_resource_update). If you want to list training material in your page, add it to the metadata of the page, according to the training matadata fields provided in the page template.
+1. You can now edit or add new text and images according to the provided template. GitHub provide a [guide for writing and formatting in GitHub](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github). Make sure to read our [style guide](style_guide) before start writing. In general, try to avoid manual interlinking of 1+MG Framework pages.
+
 1. When you are happy with your first draft of the content, go to the “Propose changes” section at the end of the page and write a title and a brief explanation of your changes.
 1. Click on “Propose changes”.
    {% include image.html file="propose_changes_github.png" inline=true alt="Propose changes on GitHub" %}

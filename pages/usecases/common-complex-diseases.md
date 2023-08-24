@@ -1,15 +1,18 @@
 ---
 title: Common and complex diseases
-description: Short text describing this use case
+description: The Common and Complex Disease Use Case are focussing on the devlopment of a national-focussed decision support software based on Polygenic Risk Scores (PRS) results. 
 page_id: common-complex-diseases
 ---
-## Common and complex diseases and pharmacogenomics: 
+The Common and Complex Disease Use Case are focussing on the devlopment of a national-focussed decision support software based on Polygenic Risk Scores (PRS) results. 
 
-You can find the policy brief for 2022-2027 [here](https://ec.europa.eu/newsroom/dae/redirection/document/93728).
+The expected outcomes from the 1+MG initiative for the Common and Complex Disease Use Cases are to:
 
-In each population, individuals’ genetic variants can be used to calculate polygenic risk scores (PRS) to help predict personal increased/decreased risk for developing many common diseases and can be used for pharmacogenomic (PGx) purposes by predicting drug toxicity and effectiveness and also vaccine safety. 
+* Generate the first results in the Pharmcogenomics (PGx) field in major common diseases and also for likely drug response
+* Develop/Implement a platform for decsion making support systems for polygenic risk scores
+* Create a Proof of Concept for the entire pipeline
 
-In this brief, four actions are recommended by signatory countries.
+## [Common and complex diseases and pharmacogenomics: policy brief for 2022-2027](https://ec.europa.eu/newsroom/dae/redirection/document/93728)
+* Integrate PRS into healthcare comes with multiple challenges including ELSI considerations, it’s clinical utility, public awareness and acceptance and it’s physical implementation into infrastructure and resources. Based on this WG10 created the following Policy Brief detailing it’s expectations of each of its signatory countries and its needs from Policy in order to responsibly implement this field of genomics. 
 
 
 

@@ -21,7 +21,13 @@
                         {%- elsif page.url == item.url %}
                         <a class="nav-link ps-2 active" aria-current="page" href="{{item.url | relative_url }}">{{item.title}}</a>
                         {%- elsif item.subitems %}
-                        <a class="nav-link ps-2 dropdown-toggle" href="#" id="Dropdown{{item.title | jsonify }}" role="button" data-bs-toggle="dropdown" aria-expanded="false">{{item.title}}</a>
+                        {%- for subitem in item.subitems %}
+                            {%- if subitem.url == page.url %}
+                            {%- assign hide_menu = "hide" | default: "" %}
+                            <a class="nav-link ps-2 dropdown-toggle active" href="#" id="Dropdown{{item.title | jsonify }}" role="button" data-bs-toggle="dropdown" aria-expanded="false">{{item.title}}</a>
+                            {%- endif %}
+                        {%- endfor %}
+                        <a class="nav-link ps-2 dropdown-toggle {{hide_menu}}" href="#" id="Dropdown{{item.title | jsonify }}" role="button" data-bs-toggle="dropdown" aria-expanded="false">{{item.title}}</a>
                         <ul class="dropdown-menu" aria-labelledby="Dropdown{{item.title | jsonify }}">
                             {%- for subitem in item.subitems %}
                             <li>

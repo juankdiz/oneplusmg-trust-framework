@@ -5,19 +5,19 @@ title: Working with git
 
 ## Forking - branching - changing - pushing - PR
 
-This is a general workflow in how to work on your own fork (copy) of the rdmkit repo and request changes through a pull request:
+This is a general workflow in how to work on your own fork (copy) of the 1+MG Framework repo and request changes through a pull request:
 NOTE: if you already did these steps in the past, start from the `git fetch upstream` command. 
 
 - Make a fork of this repository, using the fork button.
 - Open a terminal and clone your fork using:
     ```
-    git clone git@github.com:USERNAME/rdmkit.git
-    cd rdmkit
+    git clone git@github.com:USERNAME/oneplusmg-framework.git
+    cd oneplusmg-framework
     ```
-    NOTE: Make sure you clone the fork and not the original elixir-europe/rdmkit one.
+    NOTE: Make sure you clone the fork and not the original GenomicDataInfrastructure/oneplusmg-framework one.
 - Keep your fork up to date (IMPORTANT!).
     ```
-    git remote add upstream https://github.com/elixir-europe/rdmkit.git
+    git remote add upstream https://github.com/GenomicDataInfrastructure/oneplusmg-framework.git
     git fetch upstream
     git checkout master (if you are not already on the master branch, check with `git branch`)
     git pull upstream master
@@ -40,25 +40,25 @@ NOTE: if you already did these steps in the past, start from the `git fetch upst
     ```
     git push origin 'FEATURE_NAME'
     ```
-- Go to [https://github.com/elixir-europe/rdmkit](https://github.com/elixir-europe/rdmkit) and click on *Compare & pull request*
+- Go to [https://github.com/GenomicDataInfrastructure/oneplusmg-framework.git](https://github.com/GenomicDataInfrastructure/oneplusmg-framework.git) and click on *Compare & pull request*
 - Open the pull request an describe your changes.
 - Wait for review by other editors. Editors that are responsible for the sections you make changes to will be assigned as reviewer automatically.
 
 ## The advantage of working locally: previewing your changes through your web browser
 
-The website is build on GitHub using Jekyll, a simple, static site generator based on ruby. When you have a local copy cloned onto your computer, it is possible to generate the website based on this repo. This makes it possible to preview changes live, every time you save a file from within the GitHub rdmkit repo. Follow these steps to deploy the website based on your local clone (copy) of the rdmkit repo:
+The website is build on GitHub using Jekyll, a simple, static site generator based on ruby. When you have a local copy cloned onto your computer, it is possible to generate the website based on this repo. This makes it possible to preview changes live, every time you save a file from within the GitHub 1+MG Framework repo. Follow these steps to deploy the website based on your local clone (copy) of the 1+MG Framework repo:
 
-Make sure you have cloned the rdmkit repo:
+Make sure you have cloned the 1+MG Framework repo:
 
-    git clone git@github.com:USERNAME/rdmkit.git
-    cd rdmkit
+    git clone git@github.com:USERNAME/oneplusmg-framework.git
+    cd oneplusmg-framework
 
 
 To run the website locally, you can either use [Docker](https://www.docker.com/) or use Jekyll directly after installing various dependencies.
 
 ### Run using Docker
 
-1. If not already installed on your machine, install Docker. From the root of the ``rdmkit`` directory, run:
+1. If not already installed on your machine, install Docker. From the root of the ``oneplusmg-framework`` directory, run:
     ```
     docker run -it --rm -p 4000:4000 -v $PWD:/srv/jekyll jekyll/jekyll:latest /bin/bash -c "gem install github-pages --no-document && chmod 777 /srv/jekyll && jekyll serve -w"
     ```

@@ -1,6 +1,10 @@
 ---
-title: TEHDAS’ Data Lifecycle
+title: EHDS Alignment
 ---
+
+In order to fulfil the 1+MG ambition, the 1+MG Framework collects the recommendations and guidelines of EU experts to facilitate access to genomic, phenotypic and other types of data across borders. The 1+MG Framework therefore can be used by the European Health Data Space (EHDS) when tackling the access to genomic data for secondary use. Most processes, standards and reference implementations related to the management of genomic information could be used by 1+MG, EHDS and other initiatives and projects that would need to share access to genomic information across borders, ensuring technical interoperability.
+
+### TEHDAS Data Lifecycle
 
 This section outlines the elements of the Data Lifecycle as defined by the TEHDAS joint action.  It includes a description of each stage, guidance, standards, and other relevant considerations.
 

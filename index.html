@@ -9,17 +9,16 @@ layout: none
 
 <body id="main">
     {% include topnav.html %}
-    <section class="container mb-5">
+    <!--<section class="container mb-5">
         <div class="card border border-primary text-primary text-center">
             <div class="card-body">
                 <h1 class="card-title fs-3">This website is currently on staging environment</h5>
             </div>
         </div>
-    </section>
+    </section>-->
     <div class="landingpage">
-        <section class="container mb-5">
+       <section class="container mb-5">
             <div>
-                <h1>1+MG Framework</h1>
                 <p class="text-center lead">The 1+MG Framework is a series of components based on the output of the 1+MG projects that provide guidance on ELSI, data quality, data standards, and technical infrastructure standards and APIs.
                 </p>
             </div>
@@ -43,10 +42,41 @@ layout: none
         </section>-->
         <section class="bg-light pb-5 pt-5">
             <div class="container">
-                <h2 class="no-anchor text-center mb-3">Browse all components by</h2>
-                {%- assign sidebar = site.data.sidebars[page.sidebar] %}
+                <section class="container hero mb-5">
+                    <div class="card border border-primary text-primary text-center">
+                        <div class="card-body">
+                            <h1 class="card-title">Core 1+MG Framework</h1>
+                        </div>
+                    </div>
+                </section>
+                {%- assign sidebar1 = site.data.sidebars[page.sidebar1] %}
+                {%- assign sidebar2 = site.data.sidebars[page.sidebar2] %}
+                <div class="row">
+                    <div class="col"><h2 class="no-anchor mb-3">Technical framework</h2></div>
+                </div>
                 <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-4">
-                    {%- for folder in sidebar.subitems %}
+                    {%- for folder in sidebar1.subitems %}
+                    <div class="col">
+                            <div class="card border bg-white h-100">
+                                {%- if folder.image_url%}
+                                <img src="{{folder.image_url | relative_url}}" class="card-img-top h-icon-5 mx-auto" alt="{{folder.title}} icon">
+                                {%- endif %}
+                                <div class="card-body text-center">
+                                    <a href="{{ folder.url | relative_url }}" class="stretched-link">
+                                        <h3 class="card-title no-anchor text-primary">{{folder.title}}</h3>
+                                    </a>
+                                    <p class="card-text">{{folder.description}}</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    {%- endfor %}
+                </div>
+                <div class="row">
+                    <div class="col"><h2 class="no-anchor mb-3 pt-5">Implementation</h2></div>
+                </div>
+                <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-4">
+                    {%- for folder in sidebar2.subitems %}
                     <div class="col">
                             <div class="card border bg-white h-100">
                                 {%- if folder.image_url%}

@@ -24,6 +24,8 @@ Given this information, the researcher wanted to know:
 
 ## Rare disease Proof of Concept
 
+<img src="{{ 'assets/img/rare-disease-proof-of-concept.png' | relative_url }}" class="m-2" style="max-width: 100%; max-height: 100%; vertical-align: middle" alt="Rare disease proof of concept" />
+
 Proof of Concept completed  for Rare Disease utilising a number of existing GA4GH Standards 
 * Beacon
 * DUO
@@ -42,17 +44,21 @@ Proof of Concept completed  for Rare Disease utilising a number of existing GA4G
 
 ## Catalogue of Met and Unmet Use Case Needs
 
-Planned further activities to meet the needs of the use cases as of 13/12/2022
+* Planned further activities to meet the needs of the use cases as of 13/12/2022
 
-* [B1MG D7.1](https://zenodo.org/record/7433377)
+* Final deliverable forthcoming
 
-## Rare Disease Patient Registries
-through partner projects are RD-Connect and EJP-RD, the 1+MG Framework supports Rare Disease patient registries
+    * Met and unmet use cases will be recorded in [Zenhub](https://app.zenhub.com/workspaces/gdi-user-portal-649bf718bcef694f631ea9a9/epics?state=OPEN&state=TODO&state=IN_PROGRESS)
+
+* EJP RD Rare Disease Patient Registries Initiative: https://resourcemap.ejprarediseases.org/ 
 
 * EJP RD Rare Disease Patient Registries Initiative:<br>
 [https://resourcemap.ejprarediseases.org/](https://resourcemap.ejprarediseases.org/)
 
-## Rare Disease Synthetic Data Catalogue
+## Rare disease survey (in progress)
+
+It covers different aspects related to sequencing data generation/capacities, data availability for rare disease patients and info on diagnostic yield, analytical pipelines, and availability on associated clinical info.  This has been sent to B1MG working group 8 experts and major rare disease sequencing centers in each member state.
+
 
 
 

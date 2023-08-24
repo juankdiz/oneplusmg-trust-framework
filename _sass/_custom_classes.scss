@@ -41,6 +41,9 @@
     }
 
 }
+.container.hero{
+    max-width: 40%;
+}
 
 /*-----Section navigation tiles-----*/
 
@@ -84,11 +87,26 @@ section#search-section {
 footer .cls-2{
     opacity: 0.18 !important;
 }
+footer .footer-text{
+    display: inline-block;
+    font-size: 13px;
+    padding: 1.2rem 0 0 0;
+    line-height: 20px;
+}
 
 header .navbar .navbar-brand img{
     width: 200px;
     height: 40px;
 }
+.navbar-nav .nav-item>a.active{
+    background-color: $primary;
+    border-radius: 0.3rem;
+    color: $white !important;
+}
+.nav-link.hide{
+    display: none;
+}
+
 
 //1+MG wheel in sidebar
 .sidebar_mgtf {
