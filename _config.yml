@@ -34,6 +34,7 @@ defaults:
       layout: "page"
       sidebar1: trust_framework
       sidebar2: trust_framework2
+      sidebar: framework
       search_exclude: false
 
   - 
