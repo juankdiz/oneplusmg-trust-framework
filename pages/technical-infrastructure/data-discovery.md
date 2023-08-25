@@ -7,13 +7,17 @@ Data discovery provides the public visibility to the combined 1+MG dataset by ma
 
 Discovery of data using GDPR compliant APIs that will fulfil Data Protection by Default and Design Principles ( work in progress).
 
-### [Beacon](https://www.ga4gh.org/product/beacon-api/)
+### [European Genomes Dashboard](https://dashboard.onemilliongenomes.eu/)
+This dashboard shows the current number of genomic datasets across the 1+MG Member States.
+
+
+### [Beacon](https://www.ga4gh.org/product/beacon-api/) <span class="badge badge-warning">Required<i class="fa-sharp fa-regular fa-star"></i></span>
 The GA4GH Beacon V2 standard is a data discoverability standard that underpins the Beacon service described above. Beacon V2 allows gene or region level queries, and phenotype queries. Within the rare disease use case this allows researchers to query for nodes containing individuals who share variants in the same region or gene, share similar phenotypes or disease, or datasets that correspond to certain data use conditions.  The user would then be able to request full access to the underlying data.
 
-### [Beacon Network](https://beacon-network.org/#/)
+### [Beacon Network](https://beacon-network.org/#/) <span class="badge badge-warning">Required<i class="fa-sharp fa-regular fa-star"></i></span>
 The 1+MG Beacon Network allows for Data Users who have fulfilled the Data Access requirements to run genotypic and/or phenotypic federated queries (across 1+MG Nodes) to discover data that match the requirements for the studies they aim to run.
 
-### DCAT-AP 
+### DCAT-AP <span class="badge badge-warning">Required<i class="fa-sharp fa-regular fa-star"></i></span>
 DCAT-AP is the European standard to aggregate data collections across borders in a single portal (1+MG User Portal currently in development) that facilitates integration and discovery by users of 1+MG, EHDS and other EU Data Spaces.
 
 

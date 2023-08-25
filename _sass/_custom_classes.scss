@@ -217,6 +217,7 @@ main {
 
 .badge{
     margin-left: 5px;
+    vertical-align: middle;
 }
 .badge-warning {
     color: $body-text-colour;
@@ -235,4 +236,7 @@ main {
 }
 .p-45{
     padding: 2rem;
+}
+h2 span, h3 span{
+    font-size: 12px !important;
 }

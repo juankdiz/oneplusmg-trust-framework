@@ -11,7 +11,7 @@ The expected outcomes from the 1+MG initiative for the Common and Complex Diseas
 * Develop/Implement a platform for decsion making support systems for polygenic risk scores
 * Create a Proof of Concept for the entire pipeline
 
-## [Common and complex diseases and pharmacogenomics: policy brief for 2022-2027](https://ec.europa.eu/newsroom/dae/redirection/document/93728)
+## [Common and complex diseases and pharmacogenomics: policy brief for 2022-2027](https://ec.europa.eu/newsroom/dae/redirection/document/93728) <span class="badge badge-dark">Recommended<i class="fa-solid fa-thumbs-up"></i></span>
 * Integrate PRS into healthcare comes with multiple challenges including ELSI considerations, it’s clinical utility, public awareness and acceptance and it’s physical implementation into infrastructure and resources. Based on this WG10 created the following Policy Brief detailing it’s expectations of each of its signatory countries and its needs from Policy in order to responsibly implement this field of genomics. 
 
 

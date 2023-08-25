@@ -43,7 +43,7 @@ You are here.
 
 ## Policy Brief
 
-### [Genomics in Healthcare: Key issues for implementation](https://b1mg-project.eu/images/pdf/Policy_Brief_Genomics_in_Healthcare_2022.pdf)
+### [Genomics in Healthcare: Key issues for implementation](https://b1mg-project.eu/images/pdf/Policy_Brief_Genomics_in_Healthcare_2022.pdf) <span class="badge badge-dark">Recommended<i class="fa-solid fa-thumbs-up"></i></span>
 To achieve the goal of implementing genomics in healthcare systems, countries need to establish national genomic medicine strategies. However, it is clear that European countries are currently at varying stages of maturity for using genomics in healthcare. Promoting the dialogue and cooperation among countries, for capacity building and sharing of best practices, is therefore extremely beneficial for advancing genomic medicine at the national and European levels. This policy brief discusses some key issues to build efficient and sustainable genomic medicine strategies such as: 
 
 1. Patient and citizens trust and engagement 
@@ -52,7 +52,7 @@ To achieve the goal of implementing genomics in healthcare systems, countries ne
 4. Synergies among healthcare, research and industry 
 5. Training of healthcare professionals 
 
-### [Country Visits](https://sites.google.com/ebi.ac.uk/b1mg-stakeholders-portal/country-visits): 
+### [Country Visits](https://sites.google.com/ebi.ac.uk/b1mg-stakeholders-portal/country-visits) <span class="badge badge-primary">Informational<i class="fa-sharp fa-solid fa-circle-info"></i></span>
 As part of the B1MG project, we virtually visited multiple countries in Europe to unveil their genomics infrastructure. Between March and June, we visited the UK, Estonia and Finland. You can now (re)play all talks from these successful, international meetings.
 
 ### Health Economic Models

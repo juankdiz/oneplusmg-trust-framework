@@ -13,7 +13,7 @@ The expected outcomes from the 1+MG Inititaive for this use case include
 * Survey the current genomic approaches in clinical practice
 * Establishing a Proof of Concept on data exchange (with WP4)
 
-## B1MG Cancer Proof of Concept: In progress
+## B1MG Cancer Proof of Concept: In progress <span class="badge badge-primary">Informational<i class="fa-sharp fa-solid fa-circle-info"></i></span>
 
 * The objective of the Cancer Proof of Concept follows the same principles as that of the Rare Disease Use Case i.e., define a set of standards, services and components that can support the five 1+MG functionalities and demonstrate these in action - using two actors: Data User and Data Access Committee (DAC).
 The scenario was placed in a healthcare context where a patient receives a BRAF-positive metastic melanoma diagnosis via a standard molecular test, has a BRAF biomarker, and starts standard therapy. After the therapy the patient returns and it is found out that the tumour no longer responds to therapy. Tumour sample is then taken, sequenced, and a mutation is found in the gene encoding PTEN protein, preventing the therapy to work.
@@ -37,7 +37,7 @@ Driving Questions for the Infrastructure:
 <img src="{{ 'assets/img/cancer-proof.png' | relative_url }}" class="m-2" style="max-width: 100%; max-height: 100%; vertical-align: middle" alt="Cancer proof" />
 <figcaption class="text-center">Cancer Proof of Concept Workflow scheme</figcaption>
 
-## 1+MG Minimal dataset for cancer
+## 1+MG Minimal dataset for cancer <span class="badge badge-warning">Required<i class="fa-sharp fa-regular fa-star"></i></span>
 
 * paper in progress
 
