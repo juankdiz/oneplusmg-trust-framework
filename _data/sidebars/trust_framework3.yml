@@ -1,0 +1,25 @@
+title: 1+MG Framework
+title_url: /index
+subitems:
+  - title: EHDS Alignment
+    url: /ehds-data-lifecycle
+    description: Outlining how the elements of the 1+MG Framework align with the European Health Data Space User Journey and Data Life Cycle
+    image_url: /assets/img/section-icons/user-journey.svg
+  
+  - title: Use cases
+    image_url: /assets/img/section-icons/use-case.svg
+    url: /usecases
+    description: Learn about data management tasks that affect your domain or research community, and the solutions adopted to address them.
+    subitems:
+      - title: "Rare diseases"
+        url: /rare-diseases
+      - title: "Cancer"
+        url: /cancer
+      - title: "Common and complex diseases"
+        url: /common-complex-diseases
+      - title: "Infectious diseases"
+        url: /infectious-diseases
+      - title: "Population genomics"
+        url: /population-genomics
+
+

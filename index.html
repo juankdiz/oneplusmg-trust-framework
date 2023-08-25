@@ -18,9 +18,11 @@ layout: none
     </section>-->
     <div class="landingpage">
        <section class="container mb-5">
-            <div>
-                <p class="text-center lead">The 1+MG Framework is a series of components based on the output of the 1+MG projects that provide guidance on ELSI, data quality, data standards, and technical infrastructure standards and APIs.
-                </p>
+            <div class="card border border-primary text-primary text-center">
+                <div class="card-body">
+                    <p class="text-center lead">The 1+MG Framework is a series of components based on the output of the 1+MG projects that provide guidance on ELSI, data quality, data standards, and technical infrastructure standards and APIs.
+                    </p>
+                </div>
             </div>
         </section>
         <!--<section id="search-section" class="bg-light py-5">
@@ -40,61 +42,78 @@ layout: none
                 </div>
             </div>
         </section>-->
-        <section class="bg-light pb-5 pt-5">
             <div class="container">
-                <section class="container hero mb-5">
-                    <div class="card border border-primary text-primary text-center">
-                        <div class="card-body">
-                            <h1 class="card-title">Core 1+MG Framework</h1>
+                <h1 class="card-title pb45">Core 1+MG Framework</h1>
+                <section class="bg-light p-45">
+                    {%- assign sidebar1 = site.data.sidebars[page.sidebar1] %}
+                    {%- assign sidebar2 = site.data.sidebars[page.sidebar2] %}
+                    {%- assign sidebar3 = site.data.sidebars[page.sidebar3] %}
+                    <div class="row">
+                        <div class="col"><h2 class="no-anchor">Technical framework</h2></div>
+                    </div>
+                    <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-4">
+                        {%- for folder in sidebar1.subitems %}
+                        <div class="col">
+                                <div class="card border bg-white h-100">
+                                    {%- if folder.image_url%}
+                                    <img src="{{folder.image_url | relative_url}}" class="card-img-top h-icon-5 mx-auto" alt="{{folder.title}} icon">
+                                    {%- endif %}
+                                    <div class="card-body text-center">
+                                        <a href="{{ folder.url | relative_url }}" class="stretched-link">
+                                            <h3 class="card-title no-anchor text-primary">{{folder.title}}</h3>
+                                        </a>
+                                        <p class="card-text">{{folder.description}}</p>
+                                    </div>
+                                </div>
+                            </a>
                         </div>
+                        {%- endfor %}
+                    </div>
+                    <div class="row">
+                        <div class="col"><h2 class="no-anchor pt-4">Implementation</h2></div>
+                    </div>
+                    <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-4">
+                        {%- for folder in sidebar2.subitems %}
+                        <div class="col">
+                                <div class="card border bg-white h-100">
+                                    {%- if folder.image_url%}
+                                    <img src="{{folder.image_url | relative_url}}" class="card-img-top h-icon-5 mx-auto" alt="{{folder.title}} icon">
+                                    {%- endif %}
+                                    <div class="card-body text-center">
+                                        <a href="{{ folder.url | relative_url }}" class="stretched-link">
+                                            <h3 class="card-title no-anchor text-primary">{{folder.title}}</h3>
+                                        </a>
+                                        <p class="card-text">{{folder.description}}</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        {%- endfor %}
                     </div>
                 </section>
-                {%- assign sidebar1 = site.data.sidebars[page.sidebar1] %}
-                {%- assign sidebar2 = site.data.sidebars[page.sidebar2] %}
-                <div class="row">
-                    <div class="col"><h2 class="no-anchor mb-3">Technical framework</h2></div>
-                </div>
-                <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-4">
-                    {%- for folder in sidebar1.subitems %}
-                    <div class="col">
-                            <div class="card border bg-white h-100">
-                                {%- if folder.image_url%}
-                                <img src="{{folder.image_url | relative_url}}" class="card-img-top h-icon-5 mx-auto" alt="{{folder.title}} icon">
-                                {%- endif %}
-                                <div class="card-body text-center">
-                                    <a href="{{ folder.url | relative_url }}" class="stretched-link">
-                                        <h3 class="card-title no-anchor text-primary">{{folder.title}}</h3>
-                                    </a>
-                                    <p class="card-text">{{folder.description}}</p>
+                
+                <h1 class="card-title pt-5 pb-4">Applying the Framework</h1>
+                <section class="bg-light p-45">
+                    <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-2 g-4">
+                        {%- for folder in sidebar3.subitems %}
+                        <div class="col">
+                                <div class="card border bg-white h-100">
+                                    {%- if folder.image_url%}
+                                    <img src="{{folder.image_url | relative_url}}" class="card-img-top h-icon-5 mx-auto" alt="{{folder.title}} icon">
+                                    {%- endif %}
+                                    <div class="card-body text-center">
+                                        <a href="{{ folder.url | relative_url }}" class="stretched-link">
+                                            <h3 class="card-title no-anchor text-primary">{{folder.title}}</h3>
+                                        </a>
+                                        <p class="card-text">{{folder.description}}</p>
+                                    </div>
                                 </div>
-                            </div>
-                        </a>
+                            </a>
+                        </div>
+                        {%- endfor %}
                     </div>
-                    {%- endfor %}
-                </div>
-                <div class="row">
-                    <div class="col"><h2 class="no-anchor mb-3 pt-5">Implementation</h2></div>
-                </div>
-                <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-4">
-                    {%- for folder in sidebar2.subitems %}
-                    <div class="col">
-                            <div class="card border bg-white h-100">
-                                {%- if folder.image_url%}
-                                <img src="{{folder.image_url | relative_url}}" class="card-img-top h-icon-5 mx-auto" alt="{{folder.title}} icon">
-                                {%- endif %}
-                                <div class="card-body text-center">
-                                    <a href="{{ folder.url | relative_url }}" class="stretched-link">
-                                        <h3 class="card-title no-anchor text-primary">{{folder.title}}</h3>
-                                    </a>
-                                    <p class="card-text">{{folder.description}}</p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    {%- endfor %}
-                </div>
+                </section>
             </div>
-        </section>
         <section class="py-5">
             <div class="container">
                 <div class="row">
@@ -107,7 +126,7 @@ layout: none
                         </p>
                     </div>
                     <div class="col-lg-3 my-auto">
-                        <a class="btn btn-primary btn-lg rounded-pill" href="{{ '/how_to_contribute' | relative_url }}">Start contributing</a>
+                        <a class="btn btn-primary btn-lg rounded-pill" href="{{ '/editorial_guidelines' | relative_url }}">Start contributing</a>
                     </div>
                 </div>
             </div>

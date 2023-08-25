@@ -24,20 +24,22 @@
     }
 
     h1 {
-        font-size: 2.2rem;
-        text-align: center;
+        font-size: 2rem;
         margin-bottom: 0;
     }
 
     h2 {
-        font-weight: 700;
         font-family:  $font-family-theme;
+        font-size: 1.6rem;
     }
 
     h3 {
         font-weight: 500;
         font-family:  $font-family-theme;
         font-size: 1.2rem;
+    }
+    .pb45{
+        padding-bottom: 2rem;
     }
 
 }
@@ -149,6 +151,10 @@ li ul .sidebar_mgtf_sub {
     color: $primary;
 }
 
+.width-80{
+    width: 80%;
+}
+
 main {
     h4{
         color: $primary;
@@ -207,4 +213,26 @@ main {
     font-size: 1.6rem;  
     text-decoration: underline;
   }  
+}
+
+.badge{
+    margin-left: 5px;
+}
+.badge-warning {
+    color: $body-text-colour;
+    background-color: $yellow;
+}
+.badge-primary {
+    color: $white;
+    background-color: $primary;
+}
+.badge-dark {
+    color: $white;
+    background-color: $heading-colour;
+}
+.fa-regular, .fa-solid{
+    padding-left: 5px;
+}
+.p-45{
+    padding: 2rem;
 }

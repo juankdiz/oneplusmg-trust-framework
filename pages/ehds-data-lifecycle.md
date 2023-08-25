@@ -10,7 +10,7 @@ This section outlines the elements of the Data Lifecycle as defined by the TEHDA
 
 This cycle has gone through multiple iterations by TEHDAS and we examine the connection of the 1+MG Framework with the [proposed Data Lifecycle as of June 2023](https://tehdas.eu/results/tehdas-proposals-for-the-implementation-of-ehds-technical-infrastructure/).
 
-<img src="{{ 'assets/img/ehds-data-lifecycle.png' | relative_url }}" class="m-2" style="max-width: 100%; max-height: 100%; vertical-align: middle" alt="EHDS data lifecycle" />
+<img src="{{ 'assets/img/tedahs-data-lifecycle-udpate.png' | relative_url }}" class="m-2" style="max-width: 100%; max-height: 100%; vertical-align: middle" alt="EHDS data lifecycle" />
 <center>TEHDAS Proposed Data Lifecycle</center>
 
 

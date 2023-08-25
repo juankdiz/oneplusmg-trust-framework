@@ -40,6 +40,15 @@ Global Alliance for Genomics and Health (GA4GH) standards are used to link the d
 
 <img src="{{ 'assets/img/data-infrastructure.png' | relative_url }}" class="m-2" style="max-width: 100%; max-height: 100%; vertical-align: middle" alt="Standard Infrastructure" />
 
+<img src="{{ 'assets/img/technical-infrastructure-figure2.png' | relative_url }}" class="m-2" style="max-width: 100%; max-height: 100%; vertical-align: middle" alt="Technical Infrastructure" />
+
+### [European Genomes Dashboard](https://dashboard.onemilliongenomes.eu/)
+This dashboard shows the current number of genomic datasets across the 1+MG Member States.
+
+### User Portal
+Under development by the European Genomic Data Infrastructure project, the User Portal will be the main European-level entry point for data access within the infrastructure.
+
+
 
 **We are still working on the content for this page.** If you are interested in adding to the page, then:
 

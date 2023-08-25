@@ -19,6 +19,8 @@ To fully exploit the potential of genomic information to benefit citizens health
 
 ## Maturity Level Model
 
+<img src="{{ 'assets/img/mlm.png' | relative_url }}" class="m-2 width-80" style="max-width: 100%; max-height: 100%; vertical-align: middle" alt="Maturity Level Model" />
+
 ### [B1MG Maturity Level Model Report](https://zenodo.org/record/6587561)
 The Beyond One Million Genomes Maturity Level Model (B1MG MLM) was created as a tool for countries to self-assess the maturity level of implementation of genomics into their healthcare systems, according to a common matrix, and to define a path to optimization. As such, it aims to promote and facilitate the adoption of genomics in healthcare systems, close the best practice gaps across Europe, and make personalised medicine accessible to citizens and patients across Europe.
 

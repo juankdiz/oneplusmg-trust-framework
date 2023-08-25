@@ -7,7 +7,7 @@ columns:
     src: 'assets/img/1+MG_logo_White.png'
     alt: logo by-covid
   - type: links
-    width: 6
+    width: 5
     children: 
       - url_text: About
         url: /about-the-framework
@@ -17,6 +17,11 @@ columns:
         url: /accessibility
       - url_text: Privacy
         url: /privacy
+  - type: image
+    image_width: 80px
+    width: 1
+    src: 'assets/img/B1MG_logo_white.png'
+    alt: B1MG
   - type: image
     image_width: 100px
     width: 1

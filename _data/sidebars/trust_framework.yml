@@ -1,10 +1,10 @@
 title: 1+MG Framework
 title_url: /index
 subitems:
-  - title: Data governance and ELSI
-    url: /data-governance
-    image_url: /assets/img/section-icons/data-governance-v1.svg
-    description: Guidance and recommendations on how to address data governance and ELSI aspect to ensure data can be made available.
+  - title: Sequencing guidelines
+    image_url: /assets/img/section-icons/data-quality-v1.svg
+    url: /sequencing-guidelines
+    description: Sequence data generation and quality requirements for WGS/WES data to be labelled as 1+MG complaint
 
   - title: Data models & ontologies
     image_url: /assets/img/section-icons/data-standard-v1.svg
@@ -26,20 +26,3 @@ subitems:
         url: /access-management
       - title: "Data processing"
         url: /data-processing
-
-  - title: Sequencing guidelines
-    image_url: /assets/img/section-icons/data-quality-v1.svg
-    url: /sequencing-guidelines
-    description: Sequence data generation and quality requirements for WGS/WES data to be labelled as 1+MG complaint
-
-  - title: Genomics into healthcare
-    image_url: /assets/img/section-icons/genomics-into-healthcare.svg
-    url: /genomics-into-healthcare
-    description: Self-assessment maturation model to guide health care systems on their journey to deploy genomic medicine.     
-
-  - title: National resources
-    image_url: /assets/img/section-icons/nation.svg
-    url: /national-resources
-    description: Find pointers to country specific information resources and national research data management practices.
-
-
