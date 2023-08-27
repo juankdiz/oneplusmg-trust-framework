@@ -8,11 +8,11 @@ subitems:
 
   - title: Data governance and ELSI
     url: /data-governance
-    image_url: /assets/img/section-icons/data-governance-v1.svg
+    image_url: /assets/img/section-icons/data-standard-v1.svg
     description: Guidance and recommendations on how to address data governance and ELSI aspect to ensure data can be made available.
 
   - title: Data models & ontologies
-    image_url: /assets/img/section-icons/data-standard-v1.svg
+    image_url: /assets/img/section-icons/data-governance-v1.svg
     url: /data-models-ontologies
     description: 1+MG minimal data models for different use cases and recommendations on ontologies and data standards.
 

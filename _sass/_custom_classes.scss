@@ -185,12 +185,15 @@ main {
       tr, td{
           border: 1px solid;
       }
+      a{
+          text-decoration: underline;
+      }
   }
   .pink{
-      background-color: #F4CCCC;
+      background-color: #f4b183;
   }
   .light-green{
-    background-color: #D9EAD3;
+    background-color: #73c92d;
 }
 
   /* Anchor tag hidden */
@@ -239,4 +242,18 @@ main {
 }
 h2 span, h3 span{
     font-size: 12px !important;
+}
+.ehds-logo {
+    background-size: 50%;
+    background-repeat: no-repeat;
+    padding-bottom: 20%;
+    background-image: url("/assets/img/ehds.png");
+    background-position: center;
+}
+.mgf-logo {
+    background-size: 50%;
+    background-repeat: no-repeat;
+    padding-bottom: 15%;
+    background-image: url("/assets/img/1+mg_framework_logo_small.png");
+    background-position: center;
 }
