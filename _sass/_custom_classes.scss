@@ -184,6 +184,7 @@ main {
       border: 1px solid;
       tr, td{
           border: 1px solid;
+          vertical-align: middle;
       }
       a{
           text-decoration: underline;
@@ -244,16 +245,10 @@ h2 span, h3 span{
     font-size: 12px !important;
 }
 .ehds-logo {
-    background-size: 50%;
-    background-repeat: no-repeat;
-    padding-bottom: 20%;
-    background-image: url("/assets/img/ehds.png");
-    background-position: center;
+    width: 40%;
+    margin: 0px auto;
 }
 .mgf-logo {
-    background-size: 50%;
-    background-repeat: no-repeat;
-    padding-bottom: 15%;
-    background-image: url("/assets/img/1+mg_framework_logo_small.png");
-    background-position: center;
+    width: 50%;
+    margin: 0px auto;
 }

@@ -17,8 +17,8 @@ This cycle has gone through multiple iterations by TEHDAS and we examine the con
 <table class="datalifecycle">
     <tbody>
         <tr>
-            <td colspan="2" rowspan="1" class="text-center"><div class="ehds-logo"></div></td>
-            <td colspan="2" rowspan="1" class="text-center"><div class="mgf-logo"></div></td>
+            <td colspan="2" rowspan="1" class="text-center"><div class="ehds-logo"><img src="{{ 'assets/img/ehds.png' | relative_url }}" alt="EHDS data lifecycle" /></div></td>
+            <td colspan="2" rowspan="1" class="text-center"><div class="mgf-logo"><img src="{{ 'assets/img/1+mg_framework_logo_small.png' | relative_url }}" alt="EHDS data lifecycle" /></div></td>
         </tr>
         <tr>
             <td colspan="1" rowspan="4" class="text-center align-middle pink">Data Preparation</td>
