@@ -10,20 +10,20 @@ If you are already familiar with the projects or know the type of guidance or re
 
 ### Technical Framework
 
-* Sequencing Guidelines: Sequence data generation guidelines with a focus on data quality
-* Data Models & Ontologies: Standards for structuring genomic and health data
-* Technical Infrastructure: Technical standards, APIs and software solutions for creating an interoperable federated European genomic data infrastructure
+* [Sequencing Guidelines](/sequencing-guidelines): Sequence data generation guidelines with a focus on data quality
+* [Data Models & Ontologies](/data-models-ontologies): Standards for structuring genomic and health data
+* [Technical Infrastructure](/technical-infrastructure): Technical standards, APIs and software solutions for creating an interoperable federated European genomic data infrastructure
 
 ### Implementations
 
-* Implementation into Healthcare: guidance to promote and facilitate the adoption of genomics by healthcare systems for making personalised medicine accessible to citizens and patients across Europe.
+* [Implementation into Healthcare](/genomics-into-healthcare): guidance to promote and facilitate the adoption of genomics by healthcare systems for making personalised medicine accessible to citizens and patients across Europe.
 
     * B1MG Maturity Level Model: framework to enable all interested countries to self evaluate the level of maturity of national genomic medicine practices following a common matrix.
     * Health Economic Models
 
-* Governance & ELSI: Legal and ethical framework to support the European genomics data infrastructure
+* [Governance & ELSI](/data-governance): Legal and ethical framework to support the European genomics data infrastructure
 
-* National Resources: tools and guidance created by the Nodes to implement the 1+MG Framework including technical implementations, ELSI documents, training, etc.
+* [National Resources](/national-resources): tools and guidance created by the Nodes to implement the 1+MG Framework including technical implementations, ELSI documents, training, etc.
 
 ### Required/Recommended/Informational Labels 
 In order to determine the importance of each resource for development of each Node, most resources are labelled with one of the following tags:

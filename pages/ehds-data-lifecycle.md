@@ -24,7 +24,7 @@ This cycle has gone through multiple iterations by TEHDAS and we examine the con
             <td colspan="1" rowspan="4" class="text-center align-middle pink">Data Preparation</td>
             <td colspan="1" rowspan="1">Collection</td>
             <td colspan="1" rowspan="1"><a href="{{ '/sequencing-guidelines' | relative_url }}">Sequencing Guidelines</a></td>
-            <td colspan="1" rowspan="8" class="text-center align-middle">Governance &amp; ELSI</td>
+            <td colspan="1" rowspan="8" class="text-center align-middle"><a href="{{ '/data-governance' | relative_url }}">Governance &amp; ELSI</a></td>
         </tr>
         <tr class="c7">
             <td colspan="1" rowspan="2">Standardization</td>
@@ -59,7 +59,7 @@ This cycle has gone through multiple iterations by TEHDAS and we examine the con
 
 The above table lists the stages of the TEHDAS Data Lifecycle (which encompases both the Data Preparation phase and the User Journey phase) and the associated elements of the 1+MG Framework.  The 1+MG Framework Governance and ELSI recommendations are relevant across the Data Lifecycle.
 
-There are some elements that fall outside of this mapping.  The TEHDAS Project Finalization stage is related to the disclosure of results, which currently falls outside of the scope of 1+MG’s technical recommendations, but there are some relevant ELSI policies, such as the forthcoming "Policy on incidental findings" and the "Policy for communication of general research results".  Additionally, there are some elements of the 1+MG Framework which fall outside of the TEHDAS Data Lifecycle including the Implementation of Genomics into Healthcare resources (focused on supporting national efforts at using genomic data within personalised medicine) and the specific scientific Use Case resources.
+There are some elements that fall outside of this mapping.  The TEHDAS Project Finalization stage is related to the disclosure of results, which currently falls outside of the scope of 1+MG’s technical recommendations, but there are some relevant ELSI policies, such as the forthcoming "Policy on incidental findings" and the "Policy for communication of general research results".  Additionally, there are some elements of the 1+MG Framework which fall outside of the TEHDAS Data Lifecycle including the [Implementation of Genomics into Healthcare](/genomics-into-healthcare) resources (focused on supporting national efforts at using genomic data within personalised medicine) and the specific scientific [Use Case](/usecases) resources.
 
 <br />
 **We are still working on the content for this page.** If you are interested in adding to the page, then:

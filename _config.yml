@@ -1,7 +1,7 @@
 title: 1+MG Framework
 # This appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-description: "Example of ELIXIR toolkit theme as a remote jekyll theme"
+description: "The 1+MG Framework is a series of components based on the output of the 1+MG projects that provide guidance on ELSI, data quality, data standards, and technical infrastructure standards and APIs."
 # Metadata description of the website
 
 remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@1.23.0
