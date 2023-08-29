@@ -19,7 +19,7 @@ In general, we follow the European Commission's [Web Writing Style Guide](https:
   * **Dates:** use Wednesday 7 July 2021 (not Wednesday 7th July 2021, or other variations).
   * **Datasets:** not "data sets".
   * **Email:** not "e-mail".
-  * **Email addresses:** spell these out and make the email address the link e.g. [tf-editors@elixir-europe.org](mailto:tf-editors@elixir-europe.org). Do not hide the email address behind a word or phrase like "contact us".
+  * **Email addresses:** spell these out and make the email address the link e.g. [framework@elixir-europe.org](mailto:framework@elixir-europe.org). Do not hide the email address behind a word or phrase like "contact us".
   * **Gender:** avoid using gender-specific words like "he" or "she".
   * **Headings:**
     * Only the first word is capitalised, unless other words are proper nouns.
@@ -72,4 +72,4 @@ In general, we follow the European Commission's [Web Writing Style Guide](https:
 
 
 ## How to suggest amendments or additions to this style guide
-[Open a new issue](https://github.com/GenomicDataInfrastructure/oneplusmg-framework/issues) on GitHub or email [tf-toolkit@elixir-europe.org](mailto:tf-editors@elixir-europe.org). See also the [contribute page](how_to_contribute).
+[Open a new issue](https://github.com/GenomicDataInfrastructure/oneplusmg-framework/issues) on GitHub or email [tf-toolkit@elixir-europe.org](mailto:framework@elixir-europe.org). See also the [contribute page](how_to_contribute).

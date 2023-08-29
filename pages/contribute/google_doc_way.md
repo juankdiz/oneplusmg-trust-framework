@@ -8,7 +8,7 @@ title: Google doc way
 1+MG Framework is hosted on GitHub. We understand, however, that many people may be unfamiliar or inexperienced with git. We therefore provide the Google doc option for contributing.
 
 The steps are as follows:
-* Email the editorial team at [tf-editors@elixir-europe.org](mailto:tf-editors@elixir-europe.org) to propose a new page or a new section in an existing page. Make sure you keep other contributors in the CC of your email. The editors will create an issue in our GitHub repository to announce your contribution to others.  
+* Email the editorial team at [framework@elixir-europe.org](mailto:framework@elixir-europe.org) to propose a new page or a new section in an existing page. Make sure you keep other contributors in the CC of your email. The editors will create an issue in our GitHub repository to announce your contribution to others.  
 * Use [our google doc template](https://docs.google.com/document/d/1gYS3vjiCIBQv5p3Fn8_d97qfIHRLbwUyMadnkaEGa1I/edit) to write the page and notify the editorial team when you are finished.
 * The editors will assign reviewers to your page, who will provide feedback as comments on the shared google doc.
 * Address the reviewers' comments and let the editorial team know, again by mail, that you're finished with revisions.
