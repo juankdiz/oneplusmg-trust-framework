@@ -95,6 +95,9 @@ footer .footer-text{
     padding: 1.6rem 0 0 0;
     line-height: 18px;
 }
+footer .copyright a{
+    color: $primary !important;
+}
 
 header .navbar .navbar-brand img{
     width: 200px;

@@ -7,7 +7,7 @@ subitems:
     description: Sequence data generation and quality requirements for WGS/WES data to be labelled as 1+MG complaint
 
   - title: Data models & ontologies
-    image_url: /assets/img/section-icons/data-standard-v1.svg
+    image_url: /assets/img/section-icons/data-governance-v1.svg 
     url: /data-models-ontologies
     description: 1+MG minimal data models for different use cases and recommendations on ontologies and data standards
 

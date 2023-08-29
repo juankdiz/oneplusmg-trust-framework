@@ -3,7 +3,7 @@ title_url: /index
 subitems:
   - title: Data governance and ELSI
     url: /data-governance
-    image_url: /assets/img/section-icons/data-governance-v1.svg
+    image_url: /assets/img/section-icons/data-standard-v1.svg
     description: Guidance and recommendations on how to address data governance and ELSI aspect to ensure data can be made available.
 
   - title: Genomics into healthcare
