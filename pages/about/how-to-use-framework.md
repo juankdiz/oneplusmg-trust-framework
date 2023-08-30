@@ -10,20 +10,20 @@ If you are already familiar with the projects or know the type of guidance or re
 
 ### Technical Framework
 
-* [Sequencing Guidelines](/sequencing-guidelines): Sequence data generation guidelines with a focus on data quality
-* [Data Models & Ontologies](/data-models-ontologies): Standards for structuring genomic and health data
-* [Technical Infrastructure](/technical-infrastructure): Technical standards, APIs and software solutions for creating an interoperable federated European genomic data infrastructure
+* <a href="{{ '/sequencing-guidelines' | relative_url }}">Sequencing Guidelines</a>: Sequence data generation guidelines with a focus on data quality
+* <a href="{{ '/data-models-ontologies' | relative_url }}">Data Models & Ontologies</a>: Standards for structuring genomic and health data
+* <a href="{{ '/technical-infrastructure' | relative_url }}">Technical Infrastructure</a>: Technical standards, APIs and software solutions for creating an interoperable federated European genomic data infrastructure
 
 ### Implementations
 
-* [Implementation into Healthcare](/genomics-into-healthcare): guidance to promote and facilitate the adoption of genomics by healthcare systems for making personalised medicine accessible to citizens and patients across Europe.
+* <a href="{{ '/genomics-into-healthcare' | relative_url }}">Implementation into Healthcare</a>: guidance to promote and facilitate the adoption of genomics by healthcare systems for making personalised medicine accessible to citizens and patients across Europe.
 
     * B1MG Maturity Level Model: framework to enable all interested countries to self evaluate the level of maturity of national genomic medicine practices following a common matrix.
     * Health Economic Models
 
-* [Governance & ELSI](/data-governance): Legal and ethical framework to support the European genomics data infrastructure
+* <a href="{{ '/data-governance' | relative_url }}">Governance & ELSI</a>: Legal and ethical framework to support the European genomics data infrastructure
 
-* [National Resources](/national-resources): tools and guidance created by the Nodes to implement the 1+MG Framework including technical implementations, ELSI documents, training, etc.
+* <a href="{{ '/national-resources' | relative_url }}">National Resources</a>: tools and guidance created by the Nodes to implement the 1+MG Framework including technical implementations, ELSI documents, training, etc.
 
 ### Required/Recommended/Informational Labels 
 In order to determine the importance of each resource for development of each Node, most resources are labelled with one of the following tags:
