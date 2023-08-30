@@ -41,7 +41,7 @@ If you are new to the 1+MG Framework and you want to understand how to use or im
 * Your Role: Outlining how the elements of the 1+MG Framework support various roles in the infrastructure.
 
 ### About
-This section explains the concept of the 1+MG Framework, how to interact with it and the [editorial guidlines](/editorial_guidelines). 
+This section explains the concept of the 1+MG Framework, how to interact with it and the <a href="{{ '/editorial_guidelines' | relative_url }}">editorial guidlines</a>. 
 
 
 
