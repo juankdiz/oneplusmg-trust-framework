@@ -20,7 +20,7 @@ In this deliverable a Proof of Concept (PoC) was built using existing standards,
 
 The 1+MG technical infrastructure is broken down into five functionalities as defined in the 2021 paper titled, [“Towards a Proof of Concept of Federated Infrastructure for the EU 1+ Million Genome Initiative”](https://zenodo.org/record/6089583).  This includes: Data Discovery, Data Reception, Storage and Interfaces, Data Access Management, and Processing.  These functionalities were originally defined as follows:
 
-### [Data Discovery](/data-discovery)
+### <a href="{{'/data-discovery' | relative_url}}">Data Discovery</a>
 Data discoverability Provides the public visibility to the combined 1+MG dataset by making selected descriptive metadata searchable. Data discovery service will collect summary level (but not sensitive) descriptions of all data available from the signatory states. It will link directly to Data Access Management where users can apply for data access.
 
 ### [Data Reception](/data-reception)
