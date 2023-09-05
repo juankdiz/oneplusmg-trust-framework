@@ -1,7 +1,7 @@
 ---
 
 title: Ireland
-country_code: IR
+country_code: IE
 contributors:
 coordinators:
 

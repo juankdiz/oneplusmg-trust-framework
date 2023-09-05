@@ -50,7 +50,7 @@ Global Alliance for Genomics and Health (GA4GH) standards are used to link the d
 This dashboard shows the current number of genomic datasets across the 1+MG Member States.
 
 ### User Portal
-Under development by the European Genomic Data Infrastructure project, the User Portal will be the main European-level entry point for data access within the infrastructure.
+* Under development by the European Genomic Data Infrastructure project, the User Portal will be the main European-level entry point for data access within the infrastructure.
 
 
 
