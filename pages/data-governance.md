@@ -16,11 +16,11 @@ To bridge these gaps and to help the 1+MG community navigate the heterogeneous e
 
 ## GDPR
 
-* [Purpose and Recital 33 in the GDPR](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4474344): <span class="badge badge-primary">Informational<i class="fa-sharp fa-solid fa-circle-info"></i></span>
+* [Purpose and Recital 33 in the GDPR](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4474344) <span class="badge badge-primary">Informational<i class="fa-sharp fa-solid fa-circle-info"></i></span>
     * Exploration of what constitutes a valid purpose under the GDPR and interpretation of Recital 33 about broad consent in this context
-* [Secondary use and further processing](https://brill.com/view/journals/ejhl/aop/article-10.1163-15718093-bja10094/article-10.1163-15718093-bja10094.xml?ebody=article%20details): <span class="badge badge-primary">Informational<i class="fa-sharp fa-solid fa-circle-info"></i></span>
+* [Secondary use and further processing](https://brill.com/view/journals/ejhl/aop/article-10.1163-15718093-bja10094/article-10.1163-15718093-bja10094.xml?ebody=article%20details) <span class="badge badge-primary">Informational<i class="fa-sharp fa-solid fa-circle-info"></i></span>
     * Analysis of the differences between secondary use and further processing as defined in the GDPR and the possibility of building the legal basis under Art. 6.1 on further processing. 
-* [Roles under the GDPR for secondary use](https://academic.oup.com/idpl/advance-article-abstract/doi/10.1093/idpl/ipac011/6586598): <span class="badge badge-primary">Informational<i class="fa-sharp fa-solid fa-circle-info"></i></span>
+* [Roles under the GDPR for secondary use](https://academic.oup.com/idpl/advance-article-abstract/doi/10.1093/idpl/ipac011/6586598) <span class="badge badge-primary">Informational<i class="fa-sharp fa-solid fa-circle-info"></i></span>
     * Identification of roles under the GDPR for the main processing operations for 1+MG
 * Challenges: Legal basis for the core processing operations <span class="badge badge-primary">Informational<i class="fa-sharp fa-solid fa-circle-info"></i></span>
     * Analysis of the availability of legal bases under Art. 6.1 GDPR and Art. 9.2 GDPR for the controllers along the main processing operations
@@ -29,15 +29,15 @@ To bridge these gaps and to help the 1+MG community navigate the heterogeneous e
 
 
 ## Translation of ethical and legal requirements into policies and recommendations
-* [Policy for special (vulnerable) subjects and groups](https://zenodo.org/record/8279861): <span class="badge badge-warning">Required<i class="fa-sharp fa-regular fa-star"></i></span>
+* [Policy for special (vulnerable) subjects and groups](https://zenodo.org/record/8279861) <span class="badge badge-warning">Required<i class="fa-sharp fa-regular fa-star"></i></span>
     * Recommendations on how to consider the vulnerability and rights of special subjects such as children and special groups subject to vulnerability
-* [Policy for incidental findings](https://zenodo.org/record/8279737): <span class="badge badge-warning">Required<i class="fa-sharp fa-regular fa-star"></i></span>
+* [Policy for incidental findings](https://zenodo.org/record/8279737) <span class="badge badge-warning">Required<i class="fa-sharp fa-regular fa-star"></i></span>
     * Recommendations for dealing with incidental findings in 1+MG
-* Policy for communication of general research results: <span class="badge badge-warning">Required<i class="fa-sharp fa-regular fa-star"></i></span>
+* Policy for communication of general research results <span class="badge badge-warning">Required<i class="fa-sharp fa-regular fa-star"></i></span>
     * Information of data subjects and the general public on outcome from research use 
-* Data governance for research use: <span class="badge badge-warning">Required<i class="fa-sharp fa-regular fa-star"></i></span>
+* Data governance for research use <span class="badge badge-warning">Required<i class="fa-sharp fa-regular fa-star"></i></span>
     * Policy for the data inclusion in 1+MG, the data access procedures and requirements for data use; for research use only – data governance for other data use to follow
-* [Transparency and consent guidance](https://zenodo.org/record/8279851): <span class="badge badge-warning">Required<i class="fa-sharp fa-regular fa-star"></i></span>
+* [Transparency and consent guidance](https://zenodo.org/record/8279851) <span class="badge badge-warning">Required<i class="fa-sharp fa-regular fa-star"></i></span>
     * Minimum standards and recommendations to be considered for information sheets and for obtaining consent for secondary use of data 
 * Data Protection / ELSI by Design and Default (DPbDD recommendations): 
     * Recommendations for the information management and IT infrastructure features to comply with legal requirements and to implement the data governance

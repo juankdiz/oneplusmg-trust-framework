@@ -55,7 +55,7 @@ To achieve the goal of implementing genomics in healthcare systems, countries ne
 ### [Country Visits](https://sites.google.com/ebi.ac.uk/b1mg-stakeholders-portal/country-visits) <span class="badge badge-primary">Informational<i class="fa-sharp fa-solid fa-circle-info"></i></span>
 As part of the B1MG project, we virtually visited multiple countries in Europe to unveil their genomics infrastructure. Between March and June, we visited the UK, Estonia and Finland. You can now (re)play all talks from these successful, international meetings.
 
-### Health Economic Models
+## Health Economic Models
 
 [Health Economic Modeling Methodology](https://zenodo.org/record/7433319)
 
