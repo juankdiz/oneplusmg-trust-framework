@@ -9,7 +9,7 @@ These standards cover a broad range of topics, including but not limited to cons
 
 To bridge these gaps and to help the 1+MG community navigate the heterogeneous ethical-legal landscapes, the Ethical Legal and Societal Issues (ELSI) team has worked to establish a legal, ethical and socially acceptable framework for secure sharing of genomics data across Europe.
 
-## 1+MG Project
+## 1+MG Initiative
 * [1+MG Glossary](https://zenodo.org/record/8279620)
 * [1+MG Data Lifecycle](https://zenodo.org/record/8279697)
 
